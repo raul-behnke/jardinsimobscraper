@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "dotenv": "^16.4.7",
+    "markdown-pdf": "^11.0.0",
+    "openai": "^4.91.0",
+    "xmldom": "^0.6.0"
+  }
+}
