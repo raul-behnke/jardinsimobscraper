@@ -1,8 +1,18 @@
 {
+  "name": "jardins_content_updater",
+  "version": "1.0.0",
+  "description": "Processador de imóveis para a Imobiliária Jardins.",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "extract": "node index.js",
+    "categorize": "node categorize.js",
+    "generate-bases": "node generate_knowledge_bases.js",
+    "generate": "npm run extract && npm run categorize && npm run generate-bases"
+  },
   "dependencies": {
-    "dotenv": "^16.4.7",
-    "markdown-pdf": "^11.0.0",
-    "openai": "^4.91.0",
+    "he": "^1.2.0",
     "xmldom": "^0.6.0"
   }
 }

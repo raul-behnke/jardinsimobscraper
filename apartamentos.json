@@ -1,16 +1,71 @@
 [
   {
-    "listingID": "124",
-    "title": "APARTAMENTO NO ANITA GARIBALDI COM 3 DORMITÓRIOS",
-    "detailViewUrl": "https://www.jardins.imb.br/imovel/apartamento-joinville-anita-garibaldi-3-quartos-2-garagens-venda-ref-124/",
+    "listingID": "150",
+    "title": "APARTAMENTO MOBILIADO COM 3 SUÍTES NO CENTRO",
+    "detailViewUrl": "https://www.jardins.imb.br/imovel/apartamento-joinville-anita-garibaldi-4-quartos-2-garagens-venda-ref-150/",
     "tipologia": "Apartamento",
-    "description": "Apartamento com 97m² privativos no Anita Garibaldi, pertinho do Cidade das Águas.\nCom 1 suíte mais 2 dormitórios, sacada com churrasqueira, móveis planejados em todos os ambientes e sol da manhã.\nCondomínio com área de lazer completa: piscina, playground, salão de festas, academia.\nFácil acesso ao centro e BR 101. \nAgende já a sua viista!<br />\n<br /><strong>Características:</strong><br>\n\n• &nbsp;Acabamento em Gesso<br>\n• &nbsp;Aceita Pet<br>\n• &nbsp;Aquecimento de Água<br>\n• &nbsp;Área de Serviço<br>\n• &nbsp;Bicicletário<br>\n• &nbsp;Brinquedoteca<br>\n• &nbsp;Churrasqueira<br>\n• &nbsp;Cozinha<br>\n• &nbsp;Elevador<br>\n• &nbsp;Espaço Fitness<br>\n• &nbsp;Espaço Gourmet<br>\n• &nbsp;Infra para Ar Split<br>\n• &nbsp;Móveis Planejados<br>\n• &nbsp;Piscina<br>\n• &nbsp;Piscina Infantil<br>\n• &nbsp;Piso Vinílico<br>\n• &nbsp;Playground<br>\n• &nbsp;Portão Eletrônico<br>\n• &nbsp;Sacada com Churrasqueira<br>\n• &nbsp;Sala de Estar<br>\n• &nbsp;Sala de Jantar<br>\n• &nbsp;Sala de Jogos<br>\n• &nbsp;Salão de Festas<br><br>\n",
+    "description": "Um apartamento simplesmente impecável na região central .\nSão 3 suítes mas 1 escritório, living amplo e integrado com a churrasqueira, lavabo. Possui uma vista espetacular da cidade e da baía da Babitonga.\nPara maior comodidade , possui 2 vagas individuais de garagem.\nFica mobiliado e equipado.\nPrédio com piscina, salão de festas, academia, brinquedoteca, espaço gourmet.<br />\n<br /><strong>Características:</strong><br>\n\n• &nbsp;Andar Alto<br>\n• &nbsp;Aquecimento de Água<br>\n• &nbsp;Área de Serviço<br>\n• &nbsp;Bicicletário<br>\n• &nbsp;Churrasqueira<br>\n• &nbsp;Cozinha<br>\n• &nbsp;Decorado<br>\n• &nbsp;Elevador<br>\n• &nbsp;Espaço Fitness<br>\n• &nbsp;Espaço Gourmet<br>\n• &nbsp;Home Office<br>\n• &nbsp;Internet / WiFi<br>\n• &nbsp;Lavabo<br>\n• &nbsp;Medidores Individuais<br>\n• &nbsp;Móveis Planejados<br>\n• &nbsp;Piscina<br>\n• &nbsp;Piso Porcelanato<br>\n• &nbsp;Sacada com Churrasqueira<br>\n• &nbsp;Sala de Estar<br>\n• &nbsp;Sala de Jantar<br>\n• &nbsp;Salão de Festas<br><br>\n",
     "listPrice": {
-      "value": "750000",
+      "value": "1495000",
       "currency": "BRL"
     },
     "propertyAdministrationFee": {
-      "value": "600",
+      "value": "640",
+      "currency": "BRL"
+    },
+    "constructedArea": {
+      "value": "146",
+      "unit": "square metres"
+    },
+    "livingArea": {
+      "value": "146",
+      "unit": "square metres"
+    },
+    "lotArea": {
+      "value": "195",
+      "unit": "square metres"
+    },
+    "bedrooms": "4",
+    "bathrooms": "3",
+    "suites": "3",
+    "garage": {
+      "value": "2",
+      "type": "Parking Space"
+    },
+    "features": [
+      "Maid's Quarters",
+      "Bicycles Place",
+      "BBQ",
+      "Kitchen",
+      "Elevator",
+      "Fitness Room",
+      "Gourmet Area",
+      "Home Office",
+      "Barbecue Balcony",
+      "BBQ",
+      "Living Room",
+      "Dining Room",
+      "Party Room",
+      "Parking Garage"
+    ],
+    "neighborhood": "Anita Garibaldi",
+    "address": "Travessa São José",
+    "streetNumber": "410",
+    "complement": "1302",
+    "postalCode": "89202-010"
+  },
+  {
+    "listingID": "149",
+    "title": "APARTAMENTO SEMI MOBILIADONO ANITA GARIBALDI",
+    "detailViewUrl": "https://www.jardins.imb.br/imovel/apartamento-joinville-anita-garibaldi-3-quartos-2-garagens-venda-ref-149/",
+    "tipologia": "Apartamento",
+    "description": "Um lindo apartamento semi mobiliado no Anita Garibaldi.\nPossui 97m², 1 suíte mais 2 dormitórios, living integrado com churrasqueira e lavanderia separada.\nMóveis planejados em todos os ambientes, splits instalados, persianas externas nas janelas.\nPrédio com piscina, salão de festas, salão de jogos, playground, academia.\nAgende uma visita com um de nossos especialistas.<br />\n<br /><strong>Características:</strong><br>\n\n• &nbsp;Acabamento em Gesso<br>\n• &nbsp;Aquecimento de Água<br>\n• &nbsp;Ar Condicionado<br>\n• &nbsp;Área de Serviço<br>\n• &nbsp;Banheiro Social<br>\n• &nbsp;Bicicletário<br>\n• &nbsp;Brinquedoteca<br>\n• &nbsp;Churrasqueira<br>\n• &nbsp;Cinema<br>\n• &nbsp;Cozinha Americana<br>\n• &nbsp;Elevador<br>\n• &nbsp;Espaço Fitness<br>\n• &nbsp;Espaço Gourmet<br>\n• &nbsp;Fechadura Eletrônica<br>\n• &nbsp;Infra para Ar Split<br>\n• &nbsp;Mini Mercado<br>\n• &nbsp;Móveis Planejados<br>\n• &nbsp;Piscina<br>\n• &nbsp;Piso Porcelanato<br>\n• &nbsp;Playground<br>\n• &nbsp;Sacada com Churrasqueira<br>\n• &nbsp;Sacada Integrada<br>\n• &nbsp;Sala de Estar<br>\n• &nbsp;Sala de Jantar<br>\n• &nbsp;Sala de Jogos<br>\n• &nbsp;Salão de Festas<br><br>\n",
+    "listPrice": {
+      "value": "930000",
+      "currency": "BRL"
+    },
+    "propertyAdministrationFee": {
+      "value": "508",
       "currency": "BRL"
     },
     "constructedArea": {
@@ -33,17 +88,19 @@
       "type": "Parking Space"
     },
     "features": [
-      "Pets Allowed",
+      "Cooling",
       "Maid's Quarters",
       "Bicycles Place",
       "BBQ",
-      "Kitchen",
+      "Media Room",
       "Elevator",
       "Fitness Room",
       "Gourmet Area",
       "Playground",
       "Barbecue Balcony",
       "BBQ",
+      "Balcony",
+      "Integrated Environments",
       "Living Room",
       "Dining Room",
       "Game room",
@@ -53,40 +110,148 @@
     "neighborhood": "Anita Garibaldi",
     "address": "Rua Servidão Emílio R E Reddin",
     "streetNumber": "64",
-    "complement": "306",
+    "complement": "904",
     "postalCode": "89203-306"
   },
   {
-    "listingID": "126",
-    "title": "APARTAMENTO COM 3 SUÍTES NO AMÉRICA",
-    "detailViewUrl": "https://www.jardins.imb.br/imovel/apartamento-joinville-america-3-quartos-2-garagens-venda-ref-126/",
+    "listingID": "148",
+    "title": "APARTAMENTO NO  AMÉRICA COM 4 SUÍTES",
+    "detailViewUrl": "https://www.jardins.imb.br/imovel/apartamento-joinville-america-4-quartos-3-garagens-venda-ref-148/",
     "tipologia": "Apartamento",
-    "description": "Apartamento no bairro América com 127m².\nCom living integrado à churrasqueira e 3 amplas suítes, abertura em reike que proporciona uma linda vista da cidade e muita luz natural. Possui móveis planejados de muito bom gosto em todos os ambeintes. Para maior conforto conta com lavabo, aquecimento a gás e persianas automatizadas. São 2 vagas de garagem e um condomínio com piscina, spa, brinquedoteca, salão de festas e academia.\nPerto do Angeloni, Academia Summit , restaurantes e comércio em geral.\n\nAgende uma visita!\n<br />\n<br /><strong>Características:</strong><br>\n\n• &nbsp;Acabamento em Gesso<br>\n• &nbsp;Aceita Pet<br>\n• &nbsp;Aquecimento de Água<br>\n• &nbsp;Área de Serviço<br>\n• &nbsp;Brinquedoteca<br>\n• &nbsp;Câmeras de Segurança<br>\n• &nbsp;Churrasqueira<br>\n• &nbsp;Cozinha<br>\n• &nbsp;Elevador<br>\n• &nbsp;Entrada de Serviço<br>\n• &nbsp;Espaço Fitness<br>\n• &nbsp;Espaço Gourmet<br>\n• &nbsp;Fechadura Eletrônica<br>\n• &nbsp;Hall Decorado e Mobiliado<br>\n• &nbsp;Infra para Ar Split<br>\n• &nbsp;Lavabo<br>\n• &nbsp;Medidores Individuais<br>\n• &nbsp;Móveis Planejados<br>\n• &nbsp;Piscina<br>\n• &nbsp;Piso Laminado<br>\n• &nbsp;Piso Porcelanato<br>\n• &nbsp;Playground<br>\n• &nbsp;Portão Eletrônico<br>\n• &nbsp;Sacada Integrada<br>\n• &nbsp;Sala de Estar<br>\n• &nbsp;Sala de Jantar<br>\n• &nbsp;Salão de Festas<br>\n• &nbsp;Spa<br><br>\n",
+    "description": "No One WTZ, cada apartamento é um refúgio exclusivo,proporcionando a privacidade que você sempre desejou. Com apenas uma unidade por andar, você terá um espaço inteiramente seu, onde cada detalhe foi pensado para garantir o máximo conforto e sofisticação.\n1 apartamento por andar. Plantas com 3 ou 4 suítes e 3 vagas de garagem.\n2 elevadores (social e serviço)\nSala de reuniões.\nAcabamentos de excelente padrão.\nMelhor aproveitamento do sol.\nAmpla área de lazer entregue decorada e mobiliada :\n\n• &nbsp;Piscina externa aquecida com espaço gourmet e churrasqueira a carvão<br>\n• &nbsp;Salão gourmet para 50 pessoas<br>\n• &nbsp;Piscina coberta aquecida<br>\n• &nbsp;Ofurô<br>\n• &nbsp;Sauna e spa para momentos de relaxamento<br>\n• &nbsp;Academia equipada com aparelhos modernos<br>\n• &nbsp;Bicicletário<br>\n• &nbsp;Espaço Select (escolhido pelos moradores)<br><br>\n Viver no One WTZ é ter o privilégio de morar em um verdadeiro resort privativo, onde o lazer e o conforto estão sempre ao seu alcance.\nR.5189.697<br />\n<br /><strong>Características:</strong><br>\n\n• &nbsp;Acabamento em Gesso<br>\n• &nbsp;Aceita Pet<br>\n• &nbsp;Aquecimento de Água<br>\n• &nbsp;Área de Serviço<br>\n• &nbsp;Bicicletário<br>\n• &nbsp;Câmeras de Segurança<br>\n• &nbsp;Churrasqueira<br>\n• &nbsp;Closet<br>\n• &nbsp;Cozinha<br>\n• &nbsp;Elevador<br>\n• &nbsp;Espaço Fitness<br>\n• &nbsp;Espaço Gourmet<br>\n• &nbsp;Fechadura Eletrônica<br>\n• &nbsp;Infra para Ar Split<br>\n• &nbsp;Lavabo<br>\n• &nbsp;Piscina<br>\n• &nbsp;Pìscina Térmica<br>\n• &nbsp;Piso Porcelanato<br>\n• &nbsp;Sacada com Churrasqueira<br>\n• &nbsp;Sala de Estar<br>\n• &nbsp;Sala de Jantar<br>\n• &nbsp;Sala de Reunião<br>\n• &nbsp;Salão de Festas<br>\n• &nbsp;Sauna<br>\n• &nbsp;Spa<br><br>\n",
     "listPrice": {
-      "value": "1490000",
+      "value": "2818114",
       "currency": "BRL"
     },
-    "propertyAdministrationFee": {
-      "value": "900",
-      "currency": "BRL"
-    },
+    "propertyAdministrationFee": null,
     "constructedArea": {
-      "value": "127",
+      "value": "230",
       "unit": "square metres"
     },
     "livingArea": {
-      "value": "127",
+      "value": "230",
       "unit": "square metres"
     },
     "lotArea": {
-      "value": "153",
+      "value": "299",
+      "unit": "square metres"
+    },
+    "bedrooms": "4",
+    "bathrooms": "5",
+    "suites": "4",
+    "garage": {
+      "value": "3",
+      "type": "Parking Space"
+    },
+    "features": [
+      "Pets Allowed",
+      "Maid's Quarters",
+      "Bicycles Place",
+      "TV Security",
+      "BBQ",
+      "Closet",
+      "Kitchen",
+      "Elevator",
+      "Fitness Room",
+      "Gourmet Area",
+      "Barbecue Balcony",
+      "BBQ",
+      "Living Room",
+      "Dining Room",
+      "Party Room",
+      "Sauna",
+      "Parking Garage"
+    ],
+    "neighborhood": "América",
+    "address": "Rua Visconde de Mauá",
+    "streetNumber": null,
+    "complement": "501",
+    "postalCode": "89204-501"
+  },
+  {
+    "listingID": "138",
+    "title": "APARTAMENTO COM 1 SUÍTE MAIS 2 DORMITÓRIOS NO SAGUAÇU",
+    "detailViewUrl": "https://www.jardins.imb.br/imovel/apartamento-joinville-saguacu-3-quartos-2-garagens-venda-ref-138/",
+    "tipologia": "Apartamento",
+    "description": "A água da piscina refletindo o sol durante o dia.\nÁgua filtrada em todo o apartamento.\nO sossego pertinho do Centro de Joinville, rodeado de serviços e lazer, mas acima de tudo, de tranquilidade.\nO Serena traz plantas de 85m² com 1 suíte mais 2 dormitórios, sacada com churrasqueira e 2 vagas de garagem. \nO condomínio conta com extensa área de lazer  com piscina, quadra de esportes, lareira, playground, salão de festas e academia.\nEntrega em Junho/28\nR.I. 186.935<br />\n<br />\n• &nbsp;Fechadura eletrônica<br>\n• &nbsp;Nichos nos banheiros<br>\n• &nbsp;Água filtrada em todo o apartamento<br>\n\n<br /><strong>Características:</strong><br>\n\n• &nbsp;Acabamento em Gesso<br>\n• &nbsp;Aceita Pet<br>\n• &nbsp;Área de Serviço<br>\n• &nbsp;Churrasqueira<br>\n• &nbsp;Cozinha<br>\n• &nbsp;Elevador<br>\n• &nbsp;Espaço Fitness<br>\n• &nbsp;Espaço Gourmet<br>\n• &nbsp;Fechadura Eletrônica<br>\n• &nbsp;Infra para Ar Split<br>\n• &nbsp;Internet / WiFi<br>\n• &nbsp;Medidores Individuais<br>\n• &nbsp;Mini Mercado<br>\n• &nbsp;Pet Place<br>\n• &nbsp;Piscina<br>\n• &nbsp;Piso Porcelanato<br>\n• &nbsp;Playground<br>\n• &nbsp;Portão Eletrônico<br>\n• &nbsp;Quadra Esportiva<br>\n• &nbsp;Sacada com Churrasqueira<br>\n• &nbsp;Sala de Estar<br>\n• &nbsp;Sala de Jantar<br>\n• &nbsp;Salão de Festas<br><br>\n",
+    "listPrice": {
+      "value": "842806",
+      "currency": "BRL"
+    },
+    "propertyAdministrationFee": null,
+    "constructedArea": {
+      "value": "84",
+      "unit": "square metres"
+    },
+    "livingArea": {
+      "value": "84",
+      "unit": "square metres"
+    },
+    "lotArea": {
+      "value": "122",
       "unit": "square metres"
     },
     "bedrooms": "3",
-    "bathrooms": "3",
-    "suites": "3",
+    "bathrooms": "2",
+    "suites": "1",
     "garage": {
       "value": "2",
+      "type": "Parking Space"
+    },
+    "features": [
+      "Pets Allowed",
+      "Maid's Quarters",
+      "BBQ",
+      "Kitchen",
+      "Elevator",
+      "Fitness Room",
+      "Gourmet Area",
+      "Playground",
+      "Sports Court",
+      "Barbecue Balcony",
+      "BBQ",
+      "Living Room",
+      "Dining Room",
+      "Party Room",
+      "Parking Garage"
+    ],
+    "neighborhood": "Saguaçu",
+    "address": "Rua Tenente Antônio João",
+    "streetNumber": "572",
+    "complement": "501",
+    "postalCode": "89222-401"
+  },
+  {
+    "listingID": "141",
+    "title": "APARTAMENTO MOBILIADO COM 2 SUÍTES NO CENTRO",
+    "detailViewUrl": "https://www.jardins.imb.br/imovel/apartamento-joinville-centro-2-quartos-1-garagem-venda-ref-141/",
+    "tipologia": "Apartamento",
+    "description": "Um lindo apartamento no centro de Joinville.\nSão 76m², 2 suítes , lavabo ,living integrado com churrasqueira acarvão.\nO apartamento está mobiliado e possui sacada integrada com fechamento em reiki.\nPrédio com piscina no roofotp, piscina aquecida, academia, longe pizza, skybar, mini mercado, petplace, salaço de festas , espaço massagem e lavanderia coletiva.\nPertinho do Shopping Mueller e Colégio Santos Anjos.\nAgende já sua visita!<br />\n<br />\n• &nbsp;Localização privilegiada<br>\n• &nbsp;Portaria 24h<br>\n• &nbsp;Persianas Externas<br>\n\n<br /><strong>Características:</strong><br>\n\n• &nbsp;Aceita Pet<br>\n• &nbsp;Aquecimento de Água<br>\n• &nbsp;Área de Serviço<br>\n• &nbsp;Brinquedoteca<br>\n• &nbsp;Câmeras de Segurança<br>\n• &nbsp;Churrasqueira<br>\n• &nbsp;Cozinha<br>\n• &nbsp;Elevador<br>\n• &nbsp;Espaço Fitness<br>\n• &nbsp;Espaço Gourmet<br>\n• &nbsp;Fechadura Eletrônica<br>\n• &nbsp;Gás Central<br>\n• &nbsp;Hall Decorado e Mobiliado<br>\n• &nbsp;Infra para Ar Split<br>\n• &nbsp;Internet / WiFi<br>\n• &nbsp;Lavabo<br>\n• &nbsp;Lavanderia Coletiva<br>\n• &nbsp;Medidores Individuais<br>\n• &nbsp;Mini Mercado<br>\n• &nbsp;Móveis Planejados<br>\n• &nbsp;Pet Place<br>\n• &nbsp;Piscina<br>\n• &nbsp;Pìscina Térmica<br>\n• &nbsp;Piso Laminado<br>\n• &nbsp;Piso Porcelanato<br>\n• &nbsp;Playground<br>\n• &nbsp;Portão Eletrônico<br>\n• &nbsp;Portaria 24h<br>\n• &nbsp;RoofTop<br>\n• &nbsp;Sacada com Churrasqueira<br>\n• &nbsp;Sala de Estar<br>\n• &nbsp;Sala de Jantar<br>\n• &nbsp;Sala de Jogos<br>\n• &nbsp;Sala de Reunião<br>\n• &nbsp;Salão de Festas<br>\n• &nbsp;Sauna<br><br>\n",
+    "listPrice": {
+      "value": "789000",
+      "currency": "BRL"
+    },
+    "propertyAdministrationFee": {
+      "value": "550",
+      "currency": "BRL"
+    },
+    "constructedArea": {
+      "value": "76",
+      "unit": "square metres"
+    },
+    "livingArea": {
+      "value": "76",
+      "unit": "square metres"
+    },
+    "lotArea": {
+      "value": "96",
+      "unit": "square metres"
+    },
+    "bedrooms": "2",
+    "bathrooms": "2",
+    "suites": "2",
+    "garage": {
+      "value": "1",
       "type": "Parking Space"
     },
     "features": [
@@ -98,19 +263,174 @@
       "Elevator",
       "Fitness Room",
       "Gourmet Area",
+      "Laundry",
       "Playground",
-      "Balcony",
-      "Integrated Environments",
+      "Doorman",
+      "Controlled Access",
+      "Barbecue Balcony",
+      "BBQ",
+      "Living Room",
+      "Dining Room",
+      "Game room",
+      "Party Room",
+      "Sauna",
+      "Parking Garage"
+    ],
+    "neighborhood": "Centro",
+    "address": "Rua Jaguaruna",
+    "streetNumber": null,
+    "complement": "512",
+    "postalCode": "89201-450"
+  },
+  {
+    "listingID": "139",
+    "title": "GIARDINO COM 3 SUÍTES NO AMÉRICA",
+    "detailViewUrl": "https://www.jardins.imb.br/imovel/apartamento-joinville-america-3-quartos-2-garagens-venda-ref-139/",
+    "tipologia": "Apartamento",
+    "description": "Localizado em uma região completa e excelente para famílias, o Full House está em uma rua paralela à João Colin, com fácil acesso ao centro ou Zona Industrial.\nEste apartamento giardino possui 218m², com 3 suítes  ( uma delas com closet) , living integrado e lavabo.\nVocê vai viver pertinho de supermercados, ótimas escolas, hospitais e de um comércio variado, sem deixar de lado toda a tranquilidade de uma rua residencial!\nAgende já uma visita !<br />\n<br /><strong>Características:</strong><br>\n\n• &nbsp;Acabamento em Gesso<br>\n• &nbsp;Área de Serviço<br>\n• &nbsp;Churrasqueira<br>\n• &nbsp;Espaço Fitness<br>\n• &nbsp;Fechadura Eletrônica<br>\n• &nbsp;Infra para Ar Split<br>\n• &nbsp;Internet / WiFi<br>\n• &nbsp;Medidores Individuais<br>\n• &nbsp;Piscina<br>\n• &nbsp;Piso Porcelanato<br>\n• &nbsp;Sacada com Churrasqueira<br>\n• &nbsp;Sala de Estar<br>\n• &nbsp;Sala de Jantar<br>\n• &nbsp;Salão de Festas<br><br>\n",
+    "listPrice": {
+      "value": "1787775",
+      "currency": "BRL"
+    },
+    "propertyAdministrationFee": null,
+    "constructedArea": {
+      "value": "218",
+      "unit": "square metres"
+    },
+    "livingArea": {
+      "value": "218",
+      "unit": "square metres"
+    },
+    "lotArea": {
+      "value": "243",
+      "unit": "square metres"
+    },
+    "bedrooms": "3",
+    "bathrooms": "3",
+    "suites": "3",
+    "garage": {
+      "value": "2",
+      "type": "Parking Space"
+    },
+    "features": [
+      "Maid's Quarters",
+      "BBQ",
+      "Fitness Room",
+      "Barbecue Balcony",
+      "BBQ",
       "Living Room",
       "Dining Room",
       "Party Room",
       "Parking Garage"
     ],
     "neighborhood": "América",
-    "address": "Rua Fernando Machado",
-    "streetNumber": "517",
-    "complement": "503",
-    "postalCode": "89204-400"
+    "address": "Rua Padre Dehon",
+    "streetNumber": null,
+    "complement": "201",
+    "postalCode": "89204-190"
+  },
+  {
+    "listingID": "135",
+    "title": "APARTAMENTO 3 QUARTOS NO AMÉRICA",
+    "detailViewUrl": "https://www.jardins.imb.br/imovel/apartamento-joinville-america-3-quartos-1-garagem-venda-ref-135/",
+    "tipologia": "Apartamento",
+    "description": "Lançamento no Bairro América.\nApartamento com 81m² de área privativa, 1 suíte mais 2 dormitórios, sacada com churrasqueira.\nRebaixo em gesso, piso laminado e porcelanato, porta de entrada pivitante, infra para split e água quente.\nPrédio com piscina, playground, salão de festas, salão de jogos.\nR.I. : 184778<br />\n<br /><strong>Características:</strong><br>\n\n• &nbsp;Acabamento em Gesso<br>\n• &nbsp;Aquecimento de Água<br>\n• &nbsp;Área de Serviço<br>\n• &nbsp;Banheiro Social<br>\n• &nbsp;Bicicletário<br>\n• &nbsp;Churrasqueira<br>\n• &nbsp;Cozinha<br>\n• &nbsp;Elevador<br>\n• &nbsp;Infra para Ar Split<br>\n• &nbsp;Pet Place<br>\n• &nbsp;Piscina<br>\n• &nbsp;Piso Laminado<br>\n• &nbsp;Piso Porcelanato<br>\n• &nbsp;Playground<br>\n• &nbsp;Sacada com Churrasqueira<br>\n• &nbsp;Sala de Estar<br>\n• &nbsp;Sala de Jantar<br>\n• &nbsp;Sala de Jogos<br>\n• &nbsp;Salão de Festas<br><br>\n",
+    "listPrice": {
+      "value": "761335",
+      "currency": "BRL"
+    },
+    "propertyAdministrationFee": null,
+    "constructedArea": {
+      "value": "81",
+      "unit": "square metres"
+    },
+    "livingArea": {
+      "value": "81",
+      "unit": "square metres"
+    },
+    "lotArea": {
+      "value": "122",
+      "unit": "square metres"
+    },
+    "bedrooms": "3",
+    "bathrooms": "2",
+    "suites": "1",
+    "garage": {
+      "value": "1",
+      "type": "Parking Space"
+    },
+    "features": [
+      "Maid's Quarters",
+      "Bicycles Place",
+      "BBQ",
+      "Kitchen",
+      "Elevator",
+      "Playground",
+      "Barbecue Balcony",
+      "BBQ",
+      "Living Room",
+      "Dining Room",
+      "Game room",
+      "Party Room",
+      "Parking Garage"
+    ],
+    "neighborhood": "América",
+    "address": "Rua Coelho Neto",
+    "streetNumber": "459",
+    "complement": "303",
+    "postalCode": "89218-015"
+  },
+  {
+    "listingID": "136",
+    "title": "APARTAMENTO NO SANTO ANTONIO COM 3 SUÍTES",
+    "detailViewUrl": "https://www.jardins.imb.br/imovel/apartamento-joinville-america-3-quartos-2-garagens-venda-ref-136/",
+    "tipologia": "Apartamento",
+    "description": "Um elegante empreendimento na região norte.\nFeito sob medido para o estilo de vida que você procura. Moderno e atemporal, com uma fachada imponente, ele se destaca.\nPlantas perosnalizáveis com 153m² privativos, área de lazer com lareira, piscina aquecida, academia, playground e salão de festas.\n\nEntrega em Junho /26\nR.146.852<br />\n<br /><strong>Características:</strong><br>\n\n• &nbsp;Acabamento em Gesso<br>\n• &nbsp;Aquecimento de Água<br>\n• &nbsp;Área de Serviço<br>\n• &nbsp;Câmeras de Segurança<br>\n• &nbsp;Churrasqueira<br>\n• &nbsp;Cozinha<br>\n• &nbsp;Elevador<br>\n• &nbsp;Entrada de Serviço<br>\n• &nbsp;Espaço Fitness<br>\n• &nbsp;Espaço Gourmet<br>\n• &nbsp;Fechadura Eletrônica<br>\n• &nbsp;Hall Decorado e Mobiliado<br>\n• &nbsp;Infra para Ar Split<br>\n• &nbsp;Lavabo<br>\n• &nbsp;Medidores Individuais<br>\n• &nbsp;Piscina<br>\n• &nbsp;Pìscina Térmica<br>\n• &nbsp;Playground<br>\n• &nbsp;Portão Eletrônico<br>\n• &nbsp;Sacada com Churrasqueira<br>\n• &nbsp;Sala de Estar<br>\n• &nbsp;Sala de Jantar<br>\n• &nbsp;Salão de Festas<br><br>\n",
+    "listPrice": {
+      "value": "2136712",
+      "currency": "BRL"
+    },
+    "propertyAdministrationFee": null,
+    "constructedArea": {
+      "value": "153",
+      "unit": "square metres"
+    },
+    "livingArea": {
+      "value": "153",
+      "unit": "square metres"
+    },
+    "lotArea": {
+      "value": "213",
+      "unit": "square metres"
+    },
+    "bedrooms": "3",
+    "bathrooms": "3",
+    "suites": "3",
+    "garage": {
+      "value": "2",
+      "type": "Parking Space"
+    },
+    "features": [
+      "Maid's Quarters",
+      "TV Security",
+      "BBQ",
+      "Kitchen",
+      "Elevator",
+      "Fitness Room",
+      "Gourmet Area",
+      "Playground",
+      "Barbecue Balcony",
+      "BBQ",
+      "Living Room",
+      "Dining Room",
+      "Party Room",
+      "Parking Garage"
+    ],
+    "neighborhood": "América",
+    "address": "Rua João Pessoa",
+    "streetNumber": "756",
+    "complement": "1301",
+    "postalCode": "89204-440"
   },
   {
     "listingID": "127",
@@ -166,160 +486,6 @@
     "address": "Rua Alvarenga Peixoto",
     "streetNumber": "363",
     "complement": "903",
-    "postalCode": "89204-400"
-  },
-  {
-    "listingID": "128",
-    "title": "APARTAMENTO COM 1 SUÍTE E MAIS 1 DORMITÓRIO NO BOM RETIRO",
-    "detailViewUrl": "https://www.jardins.imb.br/imovel/apartamento-joinville-bom-retiro-2-quartos-2-garagens-venda-ref-128/",
-    "tipologia": "Apartamento",
-    "description": "Apartamento mobiliado , pronto para morar no  Bom Retiro.\n\n1 suíte mais 1 dormitório, sacada com churrasqueira, 2 vagas de garagem. Móveis planejados e splits em todos os ambientes, eletros intalados.\nPrédio com salão de festas e elevador.\nLocalização privilegiada bem próximo a TOTVS. <br />\n<br /><strong>Características:</strong><br>\n\n• &nbsp;Acabamento em Gesso<br>\n• &nbsp;Aceita Pet<br>\n• &nbsp;Área de Serviço<br>\n• &nbsp;Banheiro Social<br>\n• &nbsp;Churrasqueira<br>\n• &nbsp;Cozinha Americana<br>\n• &nbsp;Elevador<br>\n• &nbsp;Infra para Ar Split<br>\n• &nbsp;Medidores Individuais<br>\n• &nbsp;Móveis Planejados<br>\n• &nbsp;Piso Vinílico<br>\n• &nbsp;Portão Eletrônico<br>\n• &nbsp;Sacada com Churrasqueira<br>\n• &nbsp;Sala para 2 Ambientes<br>\n• &nbsp;Salão de Festas<br><br>\n",
-    "listPrice": {
-      "value": "480000",
-      "currency": "BRL"
-    },
-    "propertyAdministrationFee": {
-      "value": "400",
-      "currency": "BRL"
-    },
-    "constructedArea": {
-      "value": "64",
-      "unit": "square metres"
-    },
-    "livingArea": {
-      "value": "64",
-      "unit": "square metres"
-    },
-    "lotArea": {
-      "value": "82",
-      "unit": "square metres"
-    },
-    "bedrooms": "2",
-    "bathrooms": "2",
-    "suites": "1",
-    "garage": {
-      "value": "2",
-      "type": "Parking Space"
-    },
-    "features": [
-      "Pets Allowed",
-      "Maid's Quarters",
-      "BBQ",
-      "Elevator",
-      "Barbecue Balcony",
-      "BBQ",
-      "Party Room",
-      "Parking Garage"
-    ],
-    "neighborhood": "Bom Retiro",
-    "address": "Rua Marechal Trompowski",
-    "streetNumber": "72",
-    "complement": "402",
-    "postalCode": "89223-030"
-  },
-  {
-    "listingID": "130",
-    "title": "APARTAMENTO COM 1 SUÍTE MAIS 1 DORMITÓRIO NO ATIRADORES",
-    "detailViewUrl": "https://www.jardins.imb.br/imovel/apartamento-joinville-atiradores-2-quartos-2-garagens-venda-ref-130/",
-    "tipologia": "Apartamento",
-    "description": "Um lindo apartamento com 1 suíte com sacada e mais 1 dormitório no Atiradores.\nSão 106m² de área privativa , living integrado, uma sacada super aconchegante com vista para área verde .\nO apartamento tem móveis planejados em todos os ambientes, splits instalados e cortinas sob medida. \nRua super charmosa, perto de restaurantes e comércios em geral.<br />\n<br /><strong>Características:</strong><br>\n\n• &nbsp;Acabamento em Gesso<br>\n• &nbsp;Ar Condicionado<br>\n• &nbsp;Área de Serviço<br>\n• &nbsp;Banheiro Social<br>\n• &nbsp;Câmeras de Segurança<br>\n• &nbsp;Churrasqueira<br>\n• &nbsp;Cozinha Americana<br>\n• &nbsp;Elevador<br>\n• &nbsp;Fechadura Eletrônica<br>\n• &nbsp;Infra para Ar Split<br>\n• &nbsp;Móveis Planejados<br>\n• &nbsp;Piscina<br>\n• &nbsp;Piso Porcelanato<br>\n• &nbsp;Playground<br>\n• &nbsp;Sacada com Churrasqueira<br>\n• &nbsp;Sala de Estar<br>\n• &nbsp;Sala de Jantar<br>\n• &nbsp;Salão de Festas<br><br>\n",
-    "listPrice": {
-      "value": "1400000",
-      "currency": "BRL"
-    },
-    "propertyAdministrationFee": null,
-    "constructedArea": {
-      "value": "106",
-      "unit": "square metres"
-    },
-    "livingArea": {
-      "value": "106",
-      "unit": "square metres"
-    },
-    "lotArea": {
-      "value": "143",
-      "unit": "square metres"
-    },
-    "bedrooms": "2",
-    "bathrooms": "2",
-    "suites": "1",
-    "garage": {
-      "value": "2",
-      "type": "Parking Space"
-    },
-    "features": [
-      "Cooling",
-      "Maid's Quarters",
-      "TV Security",
-      "BBQ",
-      "Elevator",
-      "Playground",
-      "Barbecue Balcony",
-      "BBQ",
-      "Living Room",
-      "Dining Room",
-      "Party Room",
-      "Parking Garage"
-    ],
-    "neighborhood": "Atiradores",
-    "address": "Rua Fernando de Noronha",
-    "streetNumber": "220",
-    "complement": "501",
-    "postalCode": "89203-072"
-  },
-  {
-    "listingID": "131",
-    "title": "APARTAMENTO COM 3 SUÍTES NO AMÉRICA",
-    "detailViewUrl": "https://www.jardins.imb.br/imovel/apartamento-joinville-america-3-quartos-4-garagens-venda-ref-131/",
-    "tipologia": "Apartamento",
-    "description": "Um apartamento maravilhoso no coração do bairro América. São 208m² que contemplam 3 suites , uma delas com closet, um living totalmente integrado e uma área gourmet super epaçosa para você receber amigos e familiares.\nO apartamento encontra-se mobiliado e equipado. Móveis planejados da formus , eletros e splits instalados, persianas automatizadas.\nSão 4 vagas de garagem e o condomínio conta com extensa a´rea de lazer. Piscina , playground, cinema, brinquedoteca, academis, salão de festas, tudo para seu conforto e praticidade.\nAgende já uma visita!<br />\n<br /><strong>Características:</strong><br>\n\n• &nbsp;Acabamento em Gesso<br>\n• &nbsp;Aceita Pet<br>\n• &nbsp;Andar Alto<br>\n• &nbsp;Aquecimento de Água<br>\n• &nbsp;Área de Serviço<br>\n• &nbsp;Banheiro de Serviço<br>\n• &nbsp;Câmeras de Segurança<br>\n• &nbsp;Churrasqueira<br>\n• &nbsp;Cozinha<br>\n• &nbsp;Elevador<br>\n• &nbsp;Entrada de Serviço<br>\n• &nbsp;Espaço Fitness<br>\n• &nbsp;Espaço Gourmet<br>\n• &nbsp;Home Office<br>\n• &nbsp;Infra para Ar Split<br>\n• &nbsp;Lavabo<br>\n• &nbsp;Móveis Planejados<br>\n• &nbsp;Piscina<br>\n• &nbsp;Piso Porcelanato<br>\n• &nbsp;Playground<br>\n• &nbsp;Portão Eletrônico<br>\n• &nbsp;Sacada com Churrasqueira<br>\n• &nbsp;Sala de Estar<br>\n• &nbsp;Sala de Jantar<br>\n• &nbsp;Sala de Jogos<br>\n• &nbsp;Salão de Festas<br><br>\n",
-    "listPrice": {
-      "value": "2450000",
-      "currency": "BRL"
-    },
-    "propertyAdministrationFee": null,
-    "constructedArea": {
-      "value": "208",
-      "unit": "square metres"
-    },
-    "livingArea": {
-      "value": "208",
-      "unit": "square metres"
-    },
-    "lotArea": {
-      "value": "301",
-      "unit": "square metres"
-    },
-    "bedrooms": "3",
-    "bathrooms": "4",
-    "suites": "3",
-    "garage": {
-      "value": "4",
-      "type": "Parking Space"
-    },
-    "features": [
-      "Pets Allowed",
-      "Maid's Quarters",
-      "TV Security",
-      "BBQ",
-      "Kitchen",
-      "Elevator",
-      "Fitness Room",
-      "Gourmet Area",
-      "Home Office",
-      "Playground",
-      "Barbecue Balcony",
-      "BBQ",
-      "Living Room",
-      "Dining Room",
-      "Game room",
-      "Party Room",
-      "Parking Garage"
-    ],
-    "neighborhood": "América",
-    "address": "Rua Fernando Machado",
-    "streetNumber": "407",
-    "complement": "703",
     "postalCode": "89204-400"
   },
   {
@@ -437,7 +603,7 @@
     "tipologia": "Apartamento",
     "description": "Apartamento com 1 suíte mais 2 dormitórios no Costa e Silva, área privativa de 100m², sacada com churrasqueira, lavanderia separada e área de estendal.\nLocalização privilegiada na rua João Pessoa. Condomínio com piscina, salão de festas e espaço fitness.\n1 vaga de garagem com opção de vaga extra.\nEntrega em abril/26\n\nR.I.123.562\n<br />\n<br /><strong>Características:</strong><br>\n\n• &nbsp;Acabamento em Gesso<br>\n• &nbsp;Área de Serviço<br>\n• &nbsp;Banheiro Social<br>\n• &nbsp;Bicicletário<br>\n• &nbsp;Cozinha<br>\n• &nbsp;Elevador<br>\n• &nbsp;Espaço Fitness<br>\n• &nbsp;Infra para Ar Split<br>\n• &nbsp;Internet / WiFi<br>\n• &nbsp;Piscina<br>\n• &nbsp;Sacada com Churrasqueira<br>\n• &nbsp;Sala de Estar<br>\n• &nbsp;Sala de Jantar<br>\n• &nbsp;Salão de Festas<br><br>\n",
     "listPrice": {
-      "value": "618554",
+      "value": "620286",
       "currency": "BRL"
     },
     "propertyAdministrationFee": null,
@@ -486,7 +652,7 @@
     "tipologia": "Apartamento",
     "description": "Apartamento com 1 suíte mais 1 dormitório no Costa e Silva, área privativa de 82m², sacada com churrasqueira, lavanderia separada e área de estendal.\nLocalização privilegiada na rua João Pessoa. Condomínio com piscina, salão de festas e espaço fitness.\n1 vaga de garagem com opção de vaga extra.\nEntrega em abril/26\n\nR.I.123.562\n<br />\n<br /><strong>Características:</strong><br>\n\n• &nbsp;Acabamento em Gesso<br>\n• &nbsp;Área de Serviço<br>\n• &nbsp;Banheiro Social<br>\n• &nbsp;Bicicletário<br>\n• &nbsp;Cozinha<br>\n• &nbsp;Elevador<br>\n• &nbsp;Espaço Fitness<br>\n• &nbsp;Infra para Ar Split<br>\n• &nbsp;Internet / WiFi<br>\n• &nbsp;Piscina<br>\n• &nbsp;Sacada com Churrasqueira<br>\n• &nbsp;Sala de Estar<br>\n• &nbsp;Sala de Jantar<br>\n• &nbsp;Salão de Festas<br><br>\n",
     "listPrice": {
-      "value": "508094",
+      "value": "509516",
       "currency": "BRL"
     },
     "propertyAdministrationFee": null,
@@ -527,61 +693,6 @@
     "streetNumber": "1967",
     "complement": "403",
     "postalCode": "89218-533"
-  },
-  {
-    "listingID": "115",
-    "title": "APARTAMENTO COM 3 SUÍTES MAIS ECRITÓRIO NO ATIRADORES",
-    "detailViewUrl": "https://www.jardins.imb.br/imovel/apartamento-joinville-atiradores-3-quartos-4-garagens-venda-ref-115/",
-    "tipologia": "Apartamento",
-    "description": "Belíssimo apartamento com 264m² de área privativa no Atiradores.\nSão 3 suítes amplas mais 1 escritório, lavabo, living integrado com churrasqueira.\nO apartamento tem móveis planejados em todos os ambientes e uma linda vista da cidade.\nPrédio com piscina, piscina aquecida, espaço fitness, playground, cinema , salão de festas. \nLocalizado numa rua tranquila sem saída, cercado por muito verde. Perfeito pra quem procura tranqulidade e a praticidade de estar perto de tudo.\nAgende uma visita e se encante!<br />\n<br /><strong>Características:</strong><br>\n\n• &nbsp;Acabamento em Gesso<br>\n• &nbsp;Área de Serviço<br>\n• &nbsp;Banheiro de Serviço<br>\n• &nbsp;Bicicletário<br>\n• &nbsp;Brinquedoteca<br>\n• &nbsp;Churrasqueira<br>\n• &nbsp;Cinema<br>\n• &nbsp;Cozinha<br>\n• &nbsp;Entrada de Serviço<br>\n• &nbsp;Espaço Fitness<br>\n• &nbsp;Espaço Gourmet<br>\n• &nbsp;Hall Decorado e Mobiliado<br>\n• &nbsp;Home Office<br>\n• &nbsp;Infra para Ar Split<br>\n• &nbsp;Lavabo<br>\n• &nbsp;Móveis Planejados<br>\n• &nbsp;Piscina<br>\n• &nbsp;Pìscina Térmica<br>\n• &nbsp;Piso Porcelanato<br>\n• &nbsp;Playground<br>\n• &nbsp;Portaria 24h<br>\n• &nbsp;Sacada com Churrasqueira<br>\n• &nbsp;Sala de Estar<br>\n• &nbsp;Sala de Jantar<br>\n• &nbsp;Salão de Festas<br><br>\n",
-    "listPrice": {
-      "value": "2700000",
-      "currency": "BRL"
-    },
-    "propertyAdministrationFee": null,
-    "constructedArea": {
-      "value": "264",
-      "unit": "square metres"
-    },
-    "livingArea": {
-      "value": "264",
-      "unit": "square metres"
-    },
-    "lotArea": {
-      "value": "371",
-      "unit": "square metres"
-    },
-    "bedrooms": "3",
-    "bathrooms": "4",
-    "suites": "3",
-    "garage": {
-      "value": "4",
-      "type": "Parking Space"
-    },
-    "features": [
-      "Maid's Quarters",
-      "Bicycles Place",
-      "BBQ",
-      "Media Room",
-      "Kitchen",
-      "Fitness Room",
-      "Gourmet Area",
-      "Home Office",
-      "Playground",
-      "Doorman",
-      "Controlled Access",
-      "Barbecue Balcony",
-      "BBQ",
-      "Living Room",
-      "Dining Room",
-      "Party Room",
-      "Parking Garage"
-    ],
-    "neighborhood": "Atiradores",
-    "address": "Rua Servidão Leonhard Grogel",
-    "streetNumber": "95",
-    "complement": "502",
-    "postalCode": "89203-071"
   },
   {
     "listingID": "110",
@@ -1096,56 +1207,6 @@
     "postalCode": "89204-180"
   },
   {
-    "listingID": "106",
-    "title": "APARTAMENTO COM 3 DORMITÓRIOS NO AMÉRICA",
-    "detailViewUrl": "https://www.jardins.imb.br/imovel/apartamento-joinville-america-3-quartos-1-garagem-venda-ref-106/",
-    "tipologia": "Apartamento",
-    "description": "Apartamento em ótima localização no bairro América. A 300 metros do supermercado Angeloni. Próximo da padaria Artezan, academia Summit\nPossui 75m² privativos distribuídos em cozinha, lavanderia, sala de tv, sala de jantar, 3 dormitórios sendo 1 suíte, 1 banheiro social.\n1 vaga de garagem.\nFicam todos os móveis sob medida, 2 splits, forno, coifa, cooktop, sacada com churrasqueira.\nPrédio conta com salão de festas e piscina.<br />\n<br /><strong>Características:</strong><br>\n\n• &nbsp;Área de Serviço<br>\n• &nbsp;Banheiro Social<br>\n• &nbsp;Bicicletário<br>\n• &nbsp;Elevador<br>\n• &nbsp;Piscina<br>\n• &nbsp;Piso Laminado<br>\n• &nbsp;Piso Porcelanato<br>\n• &nbsp;Sacada com Churrasqueira<br>\n• &nbsp;Sala de Estar<br>\n• &nbsp;Sala de Jantar<br>\n• &nbsp;Salão de Festas<br><br>\n",
-    "listPrice": {
-      "value": "480000",
-      "currency": "BRL"
-    },
-    "propertyAdministrationFee": {
-      "value": "400",
-      "currency": "BRL"
-    },
-    "constructedArea": {
-      "value": "75",
-      "unit": "square metres"
-    },
-    "livingArea": {
-      "value": "75",
-      "unit": "square metres"
-    },
-    "lotArea": {
-      "value": "93",
-      "unit": "square metres"
-    },
-    "bedrooms": "3",
-    "bathrooms": "2",
-    "suites": "1",
-    "garage": {
-      "value": "1",
-      "type": "Parking Space"
-    },
-    "features": [
-      "Maid's Quarters",
-      "Bicycles Place",
-      "Elevator",
-      "Barbecue Balcony",
-      "BBQ",
-      "Living Room",
-      "Dining Room",
-      "Party Room",
-      "Parking Garage"
-    ],
-    "neighborhood": "América",
-    "address": "Rua Alvarenga Peixoto",
-    "streetNumber": "238",
-    "complement": null,
-    "postalCode": "89204-430"
-  },
-  {
     "listingID": "81",
     "title": "APARTAMENTO NO ATIRADORES COM 3 SUÍTES E 3 VAGAS",
     "detailViewUrl": "https://www.jardins.imb.br/imovel/apartamento-joinville-atiradores-3-quartos-3-garagens-venda-ref-81/",
@@ -1204,6 +1265,61 @@
     "streetNumber": "180",
     "complement": "1922",
     "postalCode": "89203-085"
+  },
+  {
+    "listingID": "115",
+    "title": "APARTAMENTO COM 3 SUÍTES MAIS ECRITÓRIO NO ATIRADORES",
+    "detailViewUrl": "https://www.jardins.imb.br/imovel/apartamento-joinville-atiradores-3-quartos-4-garagens-venda-ref-115/",
+    "tipologia": "Apartamento",
+    "description": "Belíssimo apartamento com 264m² de área privativa no Atiradores.\nSão 3 suítes amplas mais 1 escritório, lavabo, living integrado com churrasqueira.\nO apartamento tem móveis planejados em todos os ambientes e uma linda vista da cidade.\nPrédio com piscina, piscina aquecida, espaço fitness, playground, cinema , salão de festas. \nLocalizado numa rua tranquila sem saída, cercado por muito verde. Perfeito pra quem procura tranqulidade e a praticidade de estar perto de tudo.\nAgende uma visita e se encante!<br />\n<br /><strong>Características:</strong><br>\n\n• &nbsp;Acabamento em Gesso<br>\n• &nbsp;Área de Serviço<br>\n• &nbsp;Banheiro de Serviço<br>\n• &nbsp;Bicicletário<br>\n• &nbsp;Brinquedoteca<br>\n• &nbsp;Churrasqueira<br>\n• &nbsp;Cinema<br>\n• &nbsp;Cozinha<br>\n• &nbsp;Entrada de Serviço<br>\n• &nbsp;Espaço Fitness<br>\n• &nbsp;Espaço Gourmet<br>\n• &nbsp;Hall Decorado e Mobiliado<br>\n• &nbsp;Home Office<br>\n• &nbsp;Infra para Ar Split<br>\n• &nbsp;Lavabo<br>\n• &nbsp;Móveis Planejados<br>\n• &nbsp;Piscina<br>\n• &nbsp;Pìscina Térmica<br>\n• &nbsp;Piso Porcelanato<br>\n• &nbsp;Playground<br>\n• &nbsp;Portaria 24h<br>\n• &nbsp;Sacada com Churrasqueira<br>\n• &nbsp;Sala de Estar<br>\n• &nbsp;Sala de Jantar<br>\n• &nbsp;Salão de Festas<br><br>\n",
+    "listPrice": {
+      "value": "2700000",
+      "currency": "BRL"
+    },
+    "propertyAdministrationFee": null,
+    "constructedArea": {
+      "value": "264",
+      "unit": "square metres"
+    },
+    "livingArea": {
+      "value": "264",
+      "unit": "square metres"
+    },
+    "lotArea": {
+      "value": "371",
+      "unit": "square metres"
+    },
+    "bedrooms": "3",
+    "bathrooms": "4",
+    "suites": "3",
+    "garage": {
+      "value": "4",
+      "type": "Parking Space"
+    },
+    "features": [
+      "Maid's Quarters",
+      "Bicycles Place",
+      "BBQ",
+      "Media Room",
+      "Kitchen",
+      "Fitness Room",
+      "Gourmet Area",
+      "Home Office",
+      "Playground",
+      "Doorman",
+      "Controlled Access",
+      "Barbecue Balcony",
+      "BBQ",
+      "Living Room",
+      "Dining Room",
+      "Party Room",
+      "Parking Garage"
+    ],
+    "neighborhood": "Atiradores",
+    "address": "Rua Servidão Leonhard Grogel",
+    "streetNumber": "95",
+    "complement": "502",
+    "postalCode": "89203-071"
   },
   {
     "listingID": "5",
@@ -1315,60 +1431,6 @@
     "streetNumber": "388",
     "complement": "403",
     "postalCode": "89204-430"
-  },
-  {
-    "listingID": "21",
-    "title": "APARTAMENTO 3 SUÍTES - ATIRADORES",
-    "detailViewUrl": "https://www.jardins.imb.br/imovel/apartamento-joinville-atiradores-3-quartos-2-garagens-venda-ref-21/",
-    "tipologia": "Apartamento",
-    "description": "Com uma vista incrível da Serra do mar e localizado em uma das regiões mais nobres do Bairro Atiradores, este imóvel vai trazer tudo aquilo que você procura de melhor num só imóvel.\n\nEsse apartamento com 3 suítes e 2 vagas, está semi mobiliado com móveis sob medida de extrema qualidade, toda marcenaria da Bontempo e ainda possui cômodos para você criar e personalizar todo seu lar,\n\nContemple a natureza sem sair de casa e viva a agitação do centro da cidade bem ao lado de casa.\n\nAgende agora sua visita.<br />\n<br /><strong>Características:</strong><br>\n\n• &nbsp;Acabamento em Gesso<br>\n• &nbsp;Acessibilidade para PNE<br>\n• &nbsp;Andar Alto<br>\n• &nbsp;Aquecimento de Água<br>\n• &nbsp;Ar Condicionado<br>\n• &nbsp;Área de Serviço<br>\n• &nbsp;Brinquedoteca<br>\n• &nbsp;Churrasqueira<br>\n• &nbsp;Cinema<br>\n• &nbsp;Cozinha<br>\n• &nbsp;Elevador<br>\n• &nbsp;Espaço Fitness<br>\n• &nbsp;Espaço Zen<br>\n• &nbsp;Fechadura Eletrônica<br>\n• &nbsp;Gás Central<br>\n• &nbsp;Hall Decorado e Mobiliado<br>\n• &nbsp;Infra para Ar Split<br>\n• &nbsp;Lavabo<br>\n• &nbsp;Medidores Individuais<br>\n• &nbsp;Móveis Planejados<br>\n• &nbsp;Piscina<br>\n• &nbsp;Piso Porcelanato<br>\n• &nbsp;Piso Vinílico<br>\n• &nbsp;Portão Eletrônico<br>\n• &nbsp;Portaria 24h<br>\n• &nbsp;Sacada Integrada<br>\n• &nbsp;Sala de Estar<br>\n• &nbsp;Sala de Jantar<br>\n• &nbsp;Sala de Jogos<br>\n• &nbsp;Salão de Festas<br>\n• &nbsp;Suíte Standard<br>\n• &nbsp;Vista Panorâmica<br><br>\n",
-    "listPrice": {
-      "value": "1590000",
-      "currency": "BRL"
-    },
-    "propertyAdministrationFee": null,
-    "constructedArea": {
-      "value": "140",
-      "unit": "square metres"
-    },
-    "livingArea": {
-      "value": "140",
-      "unit": "square metres"
-    },
-    "lotArea": {
-      "value": "171",
-      "unit": "square metres"
-    },
-    "bedrooms": "3",
-    "bathrooms": "3",
-    "suites": "3",
-    "garage": {
-      "value": "2",
-      "type": "Parking Space"
-    },
-    "features": [
-      "Cooling",
-      "Maid's Quarters",
-      "BBQ",
-      "Media Room",
-      "Kitchen",
-      "Elevator",
-      "Fitness Room",
-      "Doorman",
-      "Controlled Access",
-      "Balcony",
-      "Integrated Environments",
-      "Living Room",
-      "Dining Room",
-      "Game room",
-      "Party Room",
-      "Parking Garage"
-    ],
-    "neighborhood": "Atiradores",
-    "address": "Rua Germano Fischer",
-    "streetNumber": "125",
-    "complement": "Apto. 1103",
-    "postalCode": "89216-294"
   },
   {
     "listingID": "31",
@@ -1986,6 +2048,116 @@
     "postalCode": "89203-083"
   },
   {
+    "listingID": "126",
+    "title": "APARTAMENTO COM 3 SUÍTES NO AMÉRICA",
+    "detailViewUrl": "https://www.jardins.imb.br/imovel/apartamento-joinville-america-3-quartos-2-garagens-venda-ref-126/",
+    "tipologia": "Apartamento",
+    "description": "Apartamento no bairro América com 127m².\nCom living integrado à churrasqueira e 3 amplas suítes, abertura em reike que proporciona uma linda vista da cidade e muita luz natural. Possui móveis planejados de muito bom gosto em todos os ambeintes. Para maior conforto conta com lavabo, aquecimento a gás e persianas automatizadas. São 2 vagas de garagem e um condomínio com piscina, spa, brinquedoteca, salão de festas e academia.\nPerto do Angeloni, Academia Summit , restaurantes e comércio em geral.\n\nAgende uma visita!\n<br />\n<br /><strong>Características:</strong><br>\n\n• &nbsp;Acabamento em Gesso<br>\n• &nbsp;Aceita Pet<br>\n• &nbsp;Aquecimento de Água<br>\n• &nbsp;Área de Serviço<br>\n• &nbsp;Brinquedoteca<br>\n• &nbsp;Câmeras de Segurança<br>\n• &nbsp;Churrasqueira<br>\n• &nbsp;Cozinha<br>\n• &nbsp;Elevador<br>\n• &nbsp;Entrada de Serviço<br>\n• &nbsp;Espaço Fitness<br>\n• &nbsp;Espaço Gourmet<br>\n• &nbsp;Fechadura Eletrônica<br>\n• &nbsp;Hall Decorado e Mobiliado<br>\n• &nbsp;Infra para Ar Split<br>\n• &nbsp;Lavabo<br>\n• &nbsp;Medidores Individuais<br>\n• &nbsp;Móveis Planejados<br>\n• &nbsp;Piscina<br>\n• &nbsp;Piso Laminado<br>\n• &nbsp;Piso Porcelanato<br>\n• &nbsp;Playground<br>\n• &nbsp;Portão Eletrônico<br>\n• &nbsp;Sacada Integrada<br>\n• &nbsp;Sala de Estar<br>\n• &nbsp;Sala de Jantar<br>\n• &nbsp;Salão de Festas<br>\n• &nbsp;Spa<br><br>\n",
+    "listPrice": {
+      "value": "1490000",
+      "currency": "BRL"
+    },
+    "propertyAdministrationFee": {
+      "value": "900",
+      "currency": "BRL"
+    },
+    "constructedArea": {
+      "value": "127",
+      "unit": "square metres"
+    },
+    "livingArea": {
+      "value": "127",
+      "unit": "square metres"
+    },
+    "lotArea": {
+      "value": "153",
+      "unit": "square metres"
+    },
+    "bedrooms": "3",
+    "bathrooms": "3",
+    "suites": "3",
+    "garage": {
+      "value": "2",
+      "type": "Parking Space"
+    },
+    "features": [
+      "Pets Allowed",
+      "Maid's Quarters",
+      "TV Security",
+      "BBQ",
+      "Kitchen",
+      "Elevator",
+      "Fitness Room",
+      "Gourmet Area",
+      "Playground",
+      "Balcony",
+      "Integrated Environments",
+      "Living Room",
+      "Dining Room",
+      "Party Room",
+      "Parking Garage"
+    ],
+    "neighborhood": "América",
+    "address": "Rua Fernando Machado",
+    "streetNumber": "517",
+    "complement": "503",
+    "postalCode": "89204-400"
+  },
+  {
+    "listingID": "21",
+    "title": "APARTAMENTO 3 SUÍTES - ATIRADORES",
+    "detailViewUrl": "https://www.jardins.imb.br/imovel/apartamento-joinville-atiradores-3-quartos-2-garagens-venda-ref-21/",
+    "tipologia": "Apartamento",
+    "description": "Com uma vista incrível da Serra do mar e localizado em uma das regiões mais nobres do Bairro Atiradores, este imóvel vai trazer tudo aquilo que você procura de melhor num só imóvel.\n\nEsse apartamento com 3 suítes e 2 vagas, está semi mobiliado com móveis sob medida de extrema qualidade, toda marcenaria da Bontempo e ainda possui cômodos para você criar e personalizar todo seu lar,\n\nContemple a natureza sem sair de casa e viva a agitação do centro da cidade bem ao lado de casa.\n\nAgende agora sua visita.<br />\n<br /><strong>Características:</strong><br>\n\n• &nbsp;Acabamento em Gesso<br>\n• &nbsp;Acessibilidade para PNE<br>\n• &nbsp;Andar Alto<br>\n• &nbsp;Aquecimento de Água<br>\n• &nbsp;Ar Condicionado<br>\n• &nbsp;Área de Serviço<br>\n• &nbsp;Brinquedoteca<br>\n• &nbsp;Churrasqueira<br>\n• &nbsp;Cinema<br>\n• &nbsp;Cozinha<br>\n• &nbsp;Elevador<br>\n• &nbsp;Espaço Fitness<br>\n• &nbsp;Espaço Zen<br>\n• &nbsp;Fechadura Eletrônica<br>\n• &nbsp;Gás Central<br>\n• &nbsp;Hall Decorado e Mobiliado<br>\n• &nbsp;Infra para Ar Split<br>\n• &nbsp;Lavabo<br>\n• &nbsp;Medidores Individuais<br>\n• &nbsp;Móveis Planejados<br>\n• &nbsp;Piscina<br>\n• &nbsp;Piso Porcelanato<br>\n• &nbsp;Piso Vinílico<br>\n• &nbsp;Portão Eletrônico<br>\n• &nbsp;Portaria 24h<br>\n• &nbsp;Sacada Integrada<br>\n• &nbsp;Sala de Estar<br>\n• &nbsp;Sala de Jantar<br>\n• &nbsp;Sala de Jogos<br>\n• &nbsp;Salão de Festas<br>\n• &nbsp;Suíte Standard<br>\n• &nbsp;Vista Panorâmica<br><br>\n",
+    "listPrice": {
+      "value": "1590000",
+      "currency": "BRL"
+    },
+    "propertyAdministrationFee": null,
+    "constructedArea": {
+      "value": "140",
+      "unit": "square metres"
+    },
+    "livingArea": {
+      "value": "140",
+      "unit": "square metres"
+    },
+    "lotArea": {
+      "value": "171",
+      "unit": "square metres"
+    },
+    "bedrooms": "3",
+    "bathrooms": "3",
+    "suites": "3",
+    "garage": {
+      "value": "2",
+      "type": "Parking Space"
+    },
+    "features": [
+      "Cooling",
+      "Maid's Quarters",
+      "BBQ",
+      "Media Room",
+      "Kitchen",
+      "Elevator",
+      "Fitness Room",
+      "Doorman",
+      "Controlled Access",
+      "Balcony",
+      "Integrated Environments",
+      "Living Room",
+      "Dining Room",
+      "Game room",
+      "Party Room",
+      "Parking Garage"
+    ],
+    "neighborhood": "Atiradores",
+    "address": "Rua Germano Fischer",
+    "streetNumber": "125",
+    "complement": "Apto. 1103",
+    "postalCode": "89216-294"
+  },
+  {
     "listingID": "51",
     "title": "APARTAMENTO 3 SUÍTES - AMÉRICA",
     "detailViewUrl": "https://www.jardins.imb.br/imovel/apartamento-joinville-america-3-quartos-2-garagens-venda-ref-51/",
@@ -2045,9 +2217,9 @@
     "title": "APARTAMENTO 4 DORMITÓRIOS NO AMÉRICA",
     "detailViewUrl": "https://www.jardins.imb.br/imovel/apartamento-joinville-america-4-quartos-3-garagens-venda-ref-45/",
     "tipologia": "Apartamento",
-    "description": "Conheça o The Hill, localizado o bairro América\nSão apenas três apartamentos por andar numa torre de oito pavimentos.\nO The Hill proporciona muito mais privacidade e exclusividade para você com espaços preparados e pensados para gerar uma experiência completa.\n<br />\nApartamentos com 197,52m² privativos, com 2 suítes + 2 dormitórios ou 3 suítes, living amplo e totalmente integrado, ampla sacada e uma  área de serviço com dormitório e banheiro.\nÁrea de lazer completa com hall de entrada decorado, piscina adulto e infantil, salão de festas, espaço gourmet, academia equipada, sala de jogos, brinquedoteca e muito mais!\nEntre em contato e agenda já uma visita.\nPrevisão de Entrega: Dezembro de 2024<br /> Registro de Incorporação: R.8-53.872 \n 1º Registro de Imóveis de Joinville.\n* Fotos do apartamento decorado<br />\n<br />\n• &nbsp;Plantas flexíveis<br>\n• &nbsp;Torre única<br>\n• &nbsp;Living integrado<br>\n\n<br /><strong>Características:</strong><br>\n\n• &nbsp;Acabamento em Gesso<br>\n• &nbsp;Área de Serviço<br>\n• &nbsp;Banheiro Social<br>\n• &nbsp;Brinquedoteca<br>\n• &nbsp;Closet<br>\n• &nbsp;Cozinha Americana<br>\n• &nbsp;Depósito<br>\n• &nbsp;Elevador<br>\n• &nbsp;Espaço Fitness<br>\n• &nbsp;Espaço Gourmet<br>\n• &nbsp;Estar Íntimo<br>\n• &nbsp;Fechadura Eletrônica<br>\n• &nbsp;Lavabo<br>\n• &nbsp;Living<br>\n• &nbsp;Piscina<br>\n• &nbsp;Piscina Infantil<br>\n• &nbsp;Piso Porcelanato<br>\n• &nbsp;Piso Vinílico<br>\n• &nbsp;Sacada com Churrasqueira<br>\n• &nbsp;Sacada Integrada<br>\n• &nbsp;Sala de Jogos<br>\n• &nbsp;Sala para 2 Ambientes<br>\n• &nbsp;Salão de Festas<br><br>\n",
+    "description": "Conheça o The Hill, localizado o bairro América\nSão apenas três apartamentos por andar numa torre de oito pavimentos.\nO The Hill proporciona muito mais privacidade e exclusividade para você com espaços preparados e pensados para gerar uma experiência completa.\n<br />\nApartamentos com 197,52m² privativos, com 2 suítes + 2 dormitórios ou 3 suítes, living amplo e totalmente integrado, ampla sacada e uma  área de serviço com dormitório e banheiro.\nÁrea de lazer completa com hall de entrada decorado, piscina adulto e infantil, salão de festas, espaço gourmet, academia equipada, sala de jogos, brinquedoteca e muito mais!\nEntre em contato e agenda já uma visita.\nPrédio entregue, pronto pra morar.<br /> Registro de Incorporação: R.8-53.872 \n\n* Fotos do apartamento decorado<br />\n<br />\n• &nbsp;Plantas flexíveis<br>\n• &nbsp;Torre única<br>\n• &nbsp;Living integrado<br>\n\n<br /><strong>Características:</strong><br>\n\n• &nbsp;Acabamento em Gesso<br>\n• &nbsp;Área de Serviço<br>\n• &nbsp;Banheiro Social<br>\n• &nbsp;Brinquedoteca<br>\n• &nbsp;Closet<br>\n• &nbsp;Cozinha Americana<br>\n• &nbsp;Depósito<br>\n• &nbsp;Elevador<br>\n• &nbsp;Espaço Fitness<br>\n• &nbsp;Espaço Gourmet<br>\n• &nbsp;Estar Íntimo<br>\n• &nbsp;Fechadura Eletrônica<br>\n• &nbsp;Lavabo<br>\n• &nbsp;Living<br>\n• &nbsp;Piscina<br>\n• &nbsp;Piscina Infantil<br>\n• &nbsp;Piso Porcelanato<br>\n• &nbsp;Piso Vinílico<br>\n• &nbsp;Sacada com Churrasqueira<br>\n• &nbsp;Sacada Integrada<br>\n• &nbsp;Sala de Jogos<br>\n• &nbsp;Sala para 2 Ambientes<br>\n• &nbsp;Salão de Festas<br><br>\n",
     "listPrice": {
-      "value": "2207400",
+      "value": "2264100",
       "currency": "BRL"
     },
     "propertyAdministrationFee": null,
@@ -2413,57 +2585,6 @@
     "postalCode": "89203-115"
   },
   {
-    "listingID": "46",
-    "title": "APARTAMENTO 3 SUÍTES - SAGUAÇÚ",
-    "detailViewUrl": "https://www.jardins.imb.br/imovel/apartamento-joinville-saguacu-3-quartos-2-garagens-venda-ref-46/",
-    "tipologia": "Apartamento",
-    "description": "<strong><em>MONTE SAINT MICHEL </em></strong>\n<em>A releitura francesa em detalhes nobres </em>\n\nO Monte Saint-Michel, um novo empreendimento, que une várias opções de lazer com uma região estratégica, que coloca você no centro de Joinville. \n\nCom um design neoclássico, o Monte Saint-Michel se destaca por sua fachada imponente e elegante, com o toque clássico francês. Um mistura de elementos, com linhas, bronze, textura e vidros. \n\nA área de lazer ganha um destaque no projeto, pensada para famílias que querem desfrutar de comemorações, encontros e o aconchego da casa. <br />\n<br /><strong>Características:</strong><br>\n\n• &nbsp;Acabamento em Gesso<br>\n• &nbsp;Aquecimento de Água<br>\n• &nbsp;Área de Serviço<br>\n• &nbsp;Churrasqueira<br>\n• &nbsp;Cinema<br>\n• &nbsp;Cozinha<br>\n• &nbsp;Espaço Fitness<br>\n• &nbsp;Espaço Gourmet<br>\n• &nbsp;Fechadura Eletrônica<br>\n• &nbsp;Infra para Ar Split<br>\n• &nbsp;Lavabo<br>\n• &nbsp;Pet Place<br>\n• &nbsp;Piscina<br>\n• &nbsp;Piscina Infantil<br>\n• &nbsp;Piso Laminado<br>\n• &nbsp;Piso Porcelanato<br>\n• &nbsp;Playground<br>\n• &nbsp;Quiosque Externo<br>\n• &nbsp;Sacada Integrada<br>\n• &nbsp;Sacada Técnica<br>\n• &nbsp;Sala de Estar<br>\n• &nbsp;Sala de Jantar<br>\n• &nbsp;Salão de Festas<br>\n• &nbsp;Suíte Standard<br><br>\n",
-    "listPrice": {
-      "value": "1220550",
-      "currency": "BRL"
-    },
-    "propertyAdministrationFee": null,
-    "constructedArea": {
-      "value": "121",
-      "unit": "square metres"
-    },
-    "livingArea": {
-      "value": "121",
-      "unit": "square metres"
-    },
-    "lotArea": {
-      "value": "186",
-      "unit": "square metres"
-    },
-    "bedrooms": "3",
-    "bathrooms": "3",
-    "suites": "3",
-    "garage": {
-      "value": "2",
-      "type": "Parking Space"
-    },
-    "features": [
-      "Maid's Quarters",
-      "BBQ",
-      "Media Room",
-      "Kitchen",
-      "Fitness Room",
-      "Gourmet Area",
-      "Playground",
-      "Balcony",
-      "Integrated Environments",
-      "Living Room",
-      "Dining Room",
-      "Party Room",
-      "Parking Garage"
-    ],
-    "neighborhood": "Saguaçu",
-    "address": "Rua Henrique Max Baggenstoss",
-    "streetNumber": "94",
-    "complement": "101",
-    "postalCode": "89221-350"
-  },
-  {
     "listingID": "24",
     "title": "3 SUÍTES NO AMÉRICA PORTEIRA FECHADA",
     "detailViewUrl": "https://www.jardins.imb.br/imovel/apartamento-joinville-america-3-quartos-3-garagens-venda-ref-24/",
@@ -2517,55 +2638,55 @@
     "postalCode": "89204-400"
   },
   {
-    "listingID": "29",
-    "title": "GIARDINO 3 SUÍTES - AMÉRICA",
-    "detailViewUrl": "https://www.jardins.imb.br/imovel/apartamento-garden-joinville-santo-antonio-3-quartos-3-garagens-venda-ref-29/",
-    "tipologia": "Apartamento Garden",
-    "description": "Um apartamento giardino de tirar o fôlego com seu jardim que rodeia a sua área de festas privativa.\n3 suítes, 3 vagas individuais e muito conforto para morar bem. \nSão aproximadamente 300m² de muito aconchego.\nVenha conferir esse apartamento encantador.<br />\n<br /><strong>Características:</strong><br>\n\n• &nbsp;Acabamento em Gesso<br>\n• &nbsp;Acessibilidade para PNE<br>\n• &nbsp;Aquecimento de Água<br>\n• &nbsp;Ar Condicionado<br>\n• &nbsp;Área de Serviço<br>\n• &nbsp;Brinquedoteca<br>\n• &nbsp;Churrasqueira<br>\n• &nbsp;Cozinha<br>\n• &nbsp;Decorado<br>\n• &nbsp;Elevador<br>\n• &nbsp;Fechadura Eletrônica<br>\n• &nbsp;Gás Central<br>\n• &nbsp;Hall Decorado e Mobiliado<br>\n• &nbsp;Jardim<br>\n• &nbsp;Lavabo<br>\n• &nbsp;Medidores Individuais<br>\n• &nbsp;Móveis Planejados<br>\n• &nbsp;Piscina<br>\n• &nbsp;Piso Porcelanato<br>\n• &nbsp;Piso Vinílico<br>\n• &nbsp;Sala de Estar<br>\n• &nbsp;Sala de Jantar<br>\n• &nbsp;Salão de Festas<br>\n• &nbsp;Suíte Master<br>\n• &nbsp;Suíte Standard<br><br>\n",
+    "listingID": "46",
+    "title": "APARTAMENTO 3 SUÍTES - SAGUAÇÚ",
+    "detailViewUrl": "https://www.jardins.imb.br/imovel/apartamento-joinville-saguacu-3-quartos-2-garagens-venda-ref-46/",
+    "tipologia": "Apartamento",
+    "description": "<strong><em>MONTE SAINT MICHEL </em></strong>\n<em>A releitura francesa em detalhes nobres </em>\n\nO Monte Saint-Michel, um novo empreendimento, que une várias opções de lazer com uma região estratégica, que coloca você no centro de Joinville. \n\nCom um design neoclássico, o Monte Saint-Michel se destaca por sua fachada imponente e elegante, com o toque clássico francês. Um mistura de elementos, com linhas, bronze, textura e vidros. \n\nA área de lazer ganha um destaque no projeto, pensada para famílias que querem desfrutar de comemorações, encontros e o aconchego da casa. <br />\n<br /><strong>Características:</strong><br>\n\n• &nbsp;Acabamento em Gesso<br>\n• &nbsp;Aquecimento de Água<br>\n• &nbsp;Área de Serviço<br>\n• &nbsp;Churrasqueira<br>\n• &nbsp;Cinema<br>\n• &nbsp;Cozinha<br>\n• &nbsp;Espaço Fitness<br>\n• &nbsp;Espaço Gourmet<br>\n• &nbsp;Fechadura Eletrônica<br>\n• &nbsp;Infra para Ar Split<br>\n• &nbsp;Lavabo<br>\n• &nbsp;Pet Place<br>\n• &nbsp;Piscina<br>\n• &nbsp;Piscina Infantil<br>\n• &nbsp;Piso Laminado<br>\n• &nbsp;Piso Porcelanato<br>\n• &nbsp;Playground<br>\n• &nbsp;Quiosque Externo<br>\n• &nbsp;Sacada Integrada<br>\n• &nbsp;Sacada Técnica<br>\n• &nbsp;Sala de Estar<br>\n• &nbsp;Sala de Jantar<br>\n• &nbsp;Salão de Festas<br>\n• &nbsp;Suíte Standard<br><br>\n",
     "listPrice": {
-      "value": "2200000",
+      "value": "1220550",
       "currency": "BRL"
     },
-    "propertyAdministrationFee": {
-      "value": "750",
-      "currency": "BRL"
-    },
+    "propertyAdministrationFee": null,
     "constructedArea": {
-      "value": "300",
+      "value": "121",
       "unit": "square metres"
     },
     "livingArea": {
-      "value": "300",
+      "value": "121",
       "unit": "square metres"
     },
     "lotArea": {
-      "value": "402",
+      "value": "186",
       "unit": "square metres"
     },
     "bedrooms": "3",
     "bathrooms": "3",
     "suites": "3",
     "garage": {
-      "value": "3",
+      "value": "2",
       "type": "Parking Space"
     },
     "features": [
-      "Cooling",
       "Maid's Quarters",
       "BBQ",
+      "Media Room",
       "Kitchen",
-      "Elevator",
-      "Garden Area",
+      "Fitness Room",
+      "Gourmet Area",
+      "Playground",
+      "Balcony",
+      "Integrated Environments",
       "Living Room",
       "Dining Room",
       "Party Room",
       "Parking Garage"
     ],
-    "neighborhood": "Santo Antônio",
-    "address": "Rua Marcílio Dias",
-    "streetNumber": "287",
-    "complement": "104",
-    "postalCode": "89218-005"
+    "neighborhood": "Saguaçu",
+    "address": "Rua Henrique Max Baggenstoss",
+    "streetNumber": "94",
+    "complement": "101",
+    "postalCode": "89221-350"
   },
   {
     "listingID": "109",
@@ -2669,6 +2790,63 @@
     "postalCode": "89204-430"
   },
   {
+    "listingID": "124",
+    "title": "APARTAMENTO NO ANITA GARIBALDI COM 3 DORMITÓRIOS",
+    "detailViewUrl": "https://www.jardins.imb.br/imovel/apartamento-joinville-anita-garibaldi-3-quartos-2-garagens-venda-ref-124/",
+    "tipologia": "Apartamento",
+    "description": "Apartamento com 97m² privativos no Anita Garibaldi, pertinho do Cidade das Águas.\nCom 1 suíte mais 2 dormitórios, sacada com churrasqueira, móveis planejados em todos os ambientes e sol da manhã.\nCondomínio com área de lazer completa: piscina, playground, salão de festas, academia.\nFácil acesso ao centro e BR 101. \nAgende já a sua viista!<br />\n<br /><strong>Características:</strong><br>\n\n• &nbsp;Acabamento em Gesso<br>\n• &nbsp;Aceita Pet<br>\n• &nbsp;Aquecimento de Água<br>\n• &nbsp;Área de Serviço<br>\n• &nbsp;Bicicletário<br>\n• &nbsp;Brinquedoteca<br>\n• &nbsp;Churrasqueira<br>\n• &nbsp;Cozinha<br>\n• &nbsp;Elevador<br>\n• &nbsp;Espaço Fitness<br>\n• &nbsp;Espaço Gourmet<br>\n• &nbsp;Infra para Ar Split<br>\n• &nbsp;Móveis Planejados<br>\n• &nbsp;Piscina<br>\n• &nbsp;Piscina Infantil<br>\n• &nbsp;Piso Vinílico<br>\n• &nbsp;Playground<br>\n• &nbsp;Portão Eletrônico<br>\n• &nbsp;Sacada com Churrasqueira<br>\n• &nbsp;Sala de Estar<br>\n• &nbsp;Sala de Jantar<br>\n• &nbsp;Sala de Jogos<br>\n• &nbsp;Salão de Festas<br><br>\n",
+    "listPrice": {
+      "value": "750000",
+      "currency": "BRL"
+    },
+    "propertyAdministrationFee": {
+      "value": "600",
+      "currency": "BRL"
+    },
+    "constructedArea": {
+      "value": "97",
+      "unit": "square metres"
+    },
+    "livingArea": {
+      "value": "97",
+      "unit": "square metres"
+    },
+    "lotArea": {
+      "value": "129",
+      "unit": "square metres"
+    },
+    "bedrooms": "3",
+    "bathrooms": "2",
+    "suites": "1",
+    "garage": {
+      "value": "2",
+      "type": "Parking Space"
+    },
+    "features": [
+      "Pets Allowed",
+      "Maid's Quarters",
+      "Bicycles Place",
+      "BBQ",
+      "Kitchen",
+      "Elevator",
+      "Fitness Room",
+      "Gourmet Area",
+      "Playground",
+      "Barbecue Balcony",
+      "BBQ",
+      "Living Room",
+      "Dining Room",
+      "Game room",
+      "Party Room",
+      "Parking Garage"
+    ],
+    "neighborhood": "Anita Garibaldi",
+    "address": "Rua Servidão Emílio R E Reddin",
+    "streetNumber": "64",
+    "complement": "306",
+    "postalCode": "89203-306"
+  },
+  {
     "listingID": "78",
     "title": "APARTAMENTO NOVO COM 3 DORMITÓRIOS NO COSTA E SILVA",
     "detailViewUrl": "https://www.jardins.imb.br/imovel/apartamento-joinville-costa-e-silva-3-quartos-1-garagem-venda-ref-78/",
@@ -2724,61 +2902,46 @@
     "postalCode": "89219-160"
   },
   {
-    "listingID": "99",
-    "title": "APARTAMENTO NO AMÉRICA 2 SUÍTES MAIS 1 DORMITÓRIO",
-    "detailViewUrl": "https://www.jardins.imb.br/imovel/apartamento-joinville-america-3-quartos-2-garagens-venda-ref-99/",
+    "listingID": "111",
+    "title": "APARTAMENTO TIPO STUDIO NO SAGUAÇU",
+    "detailViewUrl": "https://www.jardins.imb.br/imovel/apartamento-joinville-saguacu-1-quarto-1-garagem-venda-ref-111/",
     "tipologia": "Apartamento",
-    "description": "Um lindo apartamento 100% mobiliado no bairro América.\nSão 121m², living integrado, 2 suítes mais 1 dormitório, espaço gourmet com churrasqueira.  Muita luz natural e ventilação. O apartamento fica porteira fechada com móveis e eletros. \nCondomínio com piscina aquecida, salaõ de festas e academia. \nLocalização privilegiada , próximo a mercados, escolas e comércio em geral.\nNão perca essa oportunidade.<br />\n<br />\n• &nbsp;Localização privilegiada<br>\n• &nbsp;Persianas externas<br>\n• &nbsp;Totalmente mobiliado<br>\n\n<br /><strong>Características:</strong><br>\n\n• &nbsp;Acabamento em Gesso<br>\n• &nbsp;Aquecimento de Água<br>\n• &nbsp;Ar Condicionado<br>\n• &nbsp;Área de Serviço<br>\n• &nbsp;Bicicletário<br>\n• &nbsp;Câmeras de Segurança<br>\n• &nbsp;Churrasqueira<br>\n• &nbsp;Cozinha<br>\n• &nbsp;Elevador<br>\n• &nbsp;Espaço Fitness<br>\n• &nbsp;Espaço Gourmet<br>\n• &nbsp;Hall Decorado e Mobiliado<br>\n• &nbsp;Lavabo<br>\n• &nbsp;Medidores Individuais<br>\n• &nbsp;Móveis Planejados<br>\n• &nbsp;Piscina<br>\n• &nbsp;Pìscina Térmica<br>\n• &nbsp;Portão Eletrônico<br>\n• &nbsp;Sacada com Churrasqueira<br>\n• &nbsp;Sala de Estar<br>\n• &nbsp;Sala de Jantar<br>\n• &nbsp;Sala de Jogos<br>\n• &nbsp;Salão de Festas<br><br>\n",
+    "description": "Oportunidade!!!\nApartamento novo no Saguaçu, pertinho do Angeloni, com 41m² privativos, plantas com 1 dormitório ou estilo loft, sacada,  1 vaga de estacionamento.\nAcabamento em gesso, piso vinílico e porcelanato.\nPrédio com elevador e salão de festas.\nAgende uma visita e apoveite a oportunidade.\n<br />\n<br /><strong>Características:</strong><br>\n\n• &nbsp;Acabamento em Gesso<br>\n• &nbsp;Banheiro Social<br>\n• &nbsp;Cozinha<br>\n• &nbsp;Infra para Ar Split<br>\n• &nbsp;Piso Porcelanato<br>\n• &nbsp;Piso Vinílico<br>\n• &nbsp;Portão Eletrônico<br>\n• &nbsp;Sacada / Varanda<br>\n• &nbsp;Sacada Técnica<br>\n• &nbsp;Sala<br>\n• &nbsp;Salão de Festas<br><br>\n",
     "listPrice": {
-      "value": "1199000",
+      "value": "273000",
       "currency": "BRL"
     },
-    "propertyAdministrationFee": {
-      "value": "850",
-      "currency": "BRL"
-    },
+    "propertyAdministrationFee": null,
     "constructedArea": {
-      "value": "121",
+      "value": "41",
       "unit": "square metres"
     },
     "livingArea": {
-      "value": "121",
+      "value": "41",
       "unit": "square metres"
     },
     "lotArea": {
-      "value": "154",
+      "value": "57",
       "unit": "square metres"
     },
-    "bedrooms": "3",
-    "bathrooms": "3",
-    "suites": "2",
+    "bedrooms": "1",
+    "bathrooms": "1",
+    "suites": "0",
     "garage": {
-      "value": "2",
+      "value": "1",
       "type": "Parking Space"
     },
     "features": [
-      "Cooling",
-      "Maid's Quarters",
-      "Bicycles Place",
-      "TV Security",
-      "BBQ",
       "Kitchen",
-      "Elevator",
-      "Fitness Room",
-      "Gourmet Area",
-      "Barbecue Balcony",
-      "BBQ",
-      "Living Room",
-      "Dining Room",
-      "Game room",
+      "Balcony",
       "Party Room",
       "Parking Garage"
     ],
-    "neighborhood": "América",
-    "address": "Rua Benjamin Constant",
-    "streetNumber": "1293",
-    "complement": "303",
-    "postalCode": "89217-002"
+    "neighborhood": "Saguaçu",
+    "address": "Rua Desembargador Guilherme Abry",
+    "streetNumber": "314",
+    "complement": null,
+    "postalCode": "89221-600"
   },
   {
     "listingID": "112",
@@ -2829,97 +2992,61 @@
     "postalCode": "89216-120"
   },
   {
-    "listingID": "120",
-    "title": "APARTAMENTO COM 2 SUÍTES NO ANITA GARIBALDI",
-    "detailViewUrl": "https://www.jardins.imb.br/imovel/apartamento-joinville-anita-garibaldi-2-quartos-2-garagens-venda-ref-120/",
+    "listingID": "99",
+    "title": "APARTAMENTO NO AMÉRICA 2 SUÍTES MAIS 1 DORMITÓRIO",
+    "detailViewUrl": "https://www.jardins.imb.br/imovel/apartamento-joinville-america-3-quartos-2-garagens-venda-ref-99/",
     "tipologia": "Apartamento",
-    "description": "Um belíssimo apartamento no Anita Garibaldi com 131m² , 2 suítes amplas, living totalmente integrado com churrasqueira.\nFica totalmente mobiliado e equipado. 2 vagas de garagem individuais.\nPrédio com piscina, academia , salão de festas.\nAgende e venha conhecer.<br />\n<br />\n• &nbsp;Vista Livre<br>\n• &nbsp;Persianas automatizadas<br>\n• &nbsp;Localização privilegiada<br>\n\n<br /><strong>Características:</strong><br>\n\n• &nbsp;Acabamento em Gesso<br>\n• &nbsp;Andar Alto<br>\n• &nbsp;Área de Serviço<br>\n• &nbsp;Banheiro de Serviço<br>\n• &nbsp;Bicicletário<br>\n• &nbsp;Churrasqueira<br>\n• &nbsp;Cozinha<br>\n• &nbsp;Elevador<br>\n• &nbsp;Espaço Fitness<br>\n• &nbsp;Fechadura Eletrônica<br>\n• &nbsp;Infra para Ar Split<br>\n• &nbsp;Internet / WiFi<br>\n• &nbsp;Lavabo<br>\n• &nbsp;Móveis Planejados<br>\n• &nbsp;Piscina<br>\n• &nbsp;Piso Porcelanato<br>\n• &nbsp;Playground<br>\n• &nbsp;Sacada com Churrasqueira<br>\n• &nbsp;Sala<br>\n• &nbsp;Sala de Estar<br>\n• &nbsp;Sala de Jantar<br>\n• &nbsp;Salão de Festas<br><br>\n",
+    "description": "Um lindo apartamento 100% mobiliado no bairro América.\nSão 121m², living integrado, 2 suítes mais 1 dormitório, espaço gourmet com churrasqueira.  Muita luz natural e ventilação. O apartamento fica porteira fechada com móveis e eletros. \nCondomínio com piscina aquecida, salaõ de festas e academia. \nLocalização privilegiada , próximo a mercados, escolas e comércio em geral.\nNão perca essa oportunidade.<br />\n<br />\n• &nbsp;Localização privilegiada<br>\n• &nbsp;Persianas externas<br>\n• &nbsp;Totalmente mobiliado<br>\n\n<br /><strong>Características:</strong><br>\n\n• &nbsp;Acabamento em Gesso<br>\n• &nbsp;Aquecimento de Água<br>\n• &nbsp;Ar Condicionado<br>\n• &nbsp;Área de Serviço<br>\n• &nbsp;Bicicletário<br>\n• &nbsp;Câmeras de Segurança<br>\n• &nbsp;Churrasqueira<br>\n• &nbsp;Cozinha<br>\n• &nbsp;Elevador<br>\n• &nbsp;Espaço Fitness<br>\n• &nbsp;Espaço Gourmet<br>\n• &nbsp;Hall Decorado e Mobiliado<br>\n• &nbsp;Lavabo<br>\n• &nbsp;Medidores Individuais<br>\n• &nbsp;Móveis Planejados<br>\n• &nbsp;Piscina<br>\n• &nbsp;Pìscina Térmica<br>\n• &nbsp;Portão Eletrônico<br>\n• &nbsp;Sacada com Churrasqueira<br>\n• &nbsp;Sala de Estar<br>\n• &nbsp;Sala de Jantar<br>\n• &nbsp;Sala de Jogos<br>\n• &nbsp;Salão de Festas<br><br>\n",
     "listPrice": {
-      "value": "1589000",
+      "value": "1170000",
       "currency": "BRL"
     },
-    "propertyAdministrationFee": null,
+    "propertyAdministrationFee": {
+      "value": "850",
+      "currency": "BRL"
+    },
     "constructedArea": {
-      "value": "131",
+      "value": "121",
       "unit": "square metres"
     },
     "livingArea": {
-      "value": "131",
+      "value": "121",
       "unit": "square metres"
     },
     "lotArea": {
-      "value": "165",
+      "value": "154",
       "unit": "square metres"
     },
-    "bedrooms": "2",
-    "bathrooms": "4",
+    "bedrooms": "3",
+    "bathrooms": "3",
     "suites": "2",
     "garage": {
       "value": "2",
       "type": "Parking Space"
     },
     "features": [
+      "Cooling",
       "Maid's Quarters",
       "Bicycles Place",
+      "TV Security",
       "BBQ",
       "Kitchen",
       "Elevator",
       "Fitness Room",
-      "Playground",
+      "Gourmet Area",
       "Barbecue Balcony",
       "BBQ",
       "Living Room",
       "Dining Room",
+      "Game room",
       "Party Room",
       "Parking Garage"
     ],
-    "neighborhood": "Anita Garibaldi",
-    "address": "Rua Pernambuco",
-    "streetNumber": "130",
-    "complement": "502",
-    "postalCode": "89202-142"
-  },
-  {
-    "listingID": "111",
-    "title": "APARTAMENTO TIPO STUDIO NO SAGUAÇU",
-    "detailViewUrl": "https://www.jardins.imb.br/imovel/apartamento-joinville-saguacu-1-quarto-1-garagem-venda-ref-111/",
-    "tipologia": "Apartamento",
-    "description": "Oportunidade!!!\nApartamento novo no Saguaçu, pertinho do Angeloni, com 41m² privativos, plantas com 1 dormitório ou estilo loft, sacada,  1 vaga de estacionamento.\nAcabamento em gesso, piso vinílico e porcelanato.\nPrédio com elevador e salão de festas.\nAgende uma visita e apoveite a oportunidade.\n<br />\n<br /><strong>Características:</strong><br>\n\n• &nbsp;Acabamento em Gesso<br>\n• &nbsp;Banheiro Social<br>\n• &nbsp;Cozinha<br>\n• &nbsp;Infra para Ar Split<br>\n• &nbsp;Piso Porcelanato<br>\n• &nbsp;Piso Vinílico<br>\n• &nbsp;Portão Eletrônico<br>\n• &nbsp;Sacada / Varanda<br>\n• &nbsp;Sacada Técnica<br>\n• &nbsp;Sala<br>\n• &nbsp;Salão de Festas<br><br>\n",
-    "listPrice": {
-      "value": "269000",
-      "currency": "BRL"
-    },
-    "propertyAdministrationFee": null,
-    "constructedArea": {
-      "value": "41",
-      "unit": "square metres"
-    },
-    "livingArea": {
-      "value": "41",
-      "unit": "square metres"
-    },
-    "lotArea": {
-      "value": "57",
-      "unit": "square metres"
-    },
-    "bedrooms": "1",
-    "bathrooms": "1",
-    "suites": "0",
-    "garage": {
-      "value": "1",
-      "type": "Parking Space"
-    },
-    "features": [
-      "Kitchen",
-      "Balcony",
-      "Party Room",
-      "Parking Garage"
-    ],
-    "neighborhood": "Saguaçu",
-    "address": "Rua Desembargador Guilherme Abry",
-    "streetNumber": "314",
-    "complement": null,
-    "postalCode": "89221-600"
+    "neighborhood": "América",
+    "address": "Rua Benjamin Constant",
+    "streetNumber": "1293",
+    "complement": "303",
+    "postalCode": "89217-002"
   },
   {
     "listingID": "26",
@@ -2928,7 +3055,7 @@
     "tipologia": "Apartamento",
     "description": "Sofisticado, elegante e tecnológico, assim definimos esse belíssimo apartamento.\nSeus 121m² de área privativa, possuem a automação por meio da Alexa. Acenda as luzes, acione seu timer para cozinhar ou coloque seu despertador apenas por meio de comando de voz. Tecnologia ao seu alcance para lhe ajudar no dia-a-dia.\nA elegância e sofisticação estão destacados em seu piso de madeira e sua marcenaria de extrema qualidade.\nEssa opção, concerteza merece destaque na sua lista.<br />\n<br /><strong>Características:</strong><br>\n\n• &nbsp;Acabamento em Gesso<br>\n• &nbsp;Acessibilidade para PNE<br>\n• &nbsp;Andar Alto<br>\n• &nbsp;Aquecimento de Água<br>\n• &nbsp;Ar Condicionado<br>\n• &nbsp;Área de Serviço<br>\n• &nbsp;Bicicletário<br>\n• &nbsp;Brinquedoteca<br>\n• &nbsp;Câmeras de Segurança<br>\n• &nbsp;Churrasqueira<br>\n• &nbsp;Cinema<br>\n• &nbsp;Cozinha<br>\n• &nbsp;Decorado<br>\n• &nbsp;Elevador<br>\n• &nbsp;Espaço Fitness<br>\n• &nbsp;Fechadura Eletrônica<br>\n• &nbsp;Hall Decorado e Mobiliado<br>\n• &nbsp;Lavabo<br>\n• &nbsp;Medidores Individuais<br>\n• &nbsp;Móveis Planejados<br>\n• &nbsp;Pet Place<br>\n• &nbsp;Piscina<br>\n• &nbsp;Piso de Madeira<br>\n• &nbsp;Piso Porcelanato<br>\n• &nbsp;Playground<br>\n• &nbsp;Portão Eletrônico<br>\n• &nbsp;Sacada Integrada<br>\n• &nbsp;Sala de Estar<br>\n• &nbsp;Sala de Jantar<br>\n• &nbsp;Sala de Jogos<br>\n• &nbsp;Salão de Festas<br>\n• &nbsp;Suíte Standard<br><br>\n",
     "listPrice": {
-      "value": "1795000",
+      "value": "1790000",
       "currency": "BRL"
     },
     "propertyAdministrationFee": {
@@ -3032,44 +3159,45 @@
     "postalCode": "89204-440"
   },
   {
-    "listingID": "104",
-    "title": "APARTAMENTO COM 2 SUÍTES NO ATIRADORES",
-    "detailViewUrl": "https://www.jardins.imb.br/imovel/apartamento-joinville-atiradores-2-quartos-2-garagens-venda-ref-104/",
+    "listingID": "131",
+    "title": "APARTAMENTO COM 3 SUÍTES NO AMÉRICA",
+    "detailViewUrl": "https://www.jardins.imb.br/imovel/apartamento-joinville-america-3-quartos-4-garagens-venda-ref-131/",
     "tipologia": "Apartamento",
-    "description": "Apartamento totalmente mobiliado no Atiradores, pertinho do Batalhão e via Gastronômica.\nCom 81m² privativos, o imóvel possui um living integrado com churrasqueira a carvão na sacada, lavabo e 2 suítes.\nAcabamento diferenciado, com rebaixo em gesso, piso vinílico e persianas automatizadas. Bom gosto e requinte em todos os detalhes.\nCondomínio oferece uma estrutura completa de lazer, incluindo piscina adulto e infantil, sky bar, spa, espaço beleza, três salões de festas, pub e uma vista incomparável da cidade.\nAgende uma visita e se encante!<br />\n<br />\n• &nbsp;Persianas automatizadas<br>\n• &nbsp;Rebaixo em gesso<br>\n• &nbsp;Piso vinílico<br>\n\n<br /><strong>Características:</strong><br>\n\n• &nbsp;Acabamento em Gesso<br>\n• &nbsp;Aquecimento de Água<br>\n• &nbsp;Ar Condicionado<br>\n• &nbsp;Área de Serviço<br>\n• &nbsp;Bicicletário<br>\n• &nbsp;Brinquedoteca<br>\n• &nbsp;Câmeras de Segurança<br>\n• &nbsp;Churrasqueira<br>\n• &nbsp;Cozinha Americana<br>\n• &nbsp;Elevador<br>\n• &nbsp;Espaço Fitness<br>\n• &nbsp;Espaço Gourmet<br>\n• &nbsp;Fechadura Eletrônica<br>\n• &nbsp;Infra para Ar Split<br>\n• &nbsp;Lavabo<br>\n• &nbsp;Móveis Planejados<br>\n• &nbsp;Piscina<br>\n• &nbsp;Piscina Infantil<br>\n• &nbsp;Piso Vinílico<br>\n• &nbsp;Playground<br>\n• &nbsp;Sacada com Churrasqueira<br>\n• &nbsp;Sala de Estar<br>\n• &nbsp;Sala de Jantar<br>\n• &nbsp;Sala de Jogos<br>\n• &nbsp;Salão de Festas<br><br>\n",
+    "description": "Um apartamento maravilhoso no coração do bairro América. São 208m² que contemplam 3 suites , uma delas com closet, um living totalmente integrado e uma área gourmet super epaçosa para você receber amigos e familiares.\nO apartamento encontra-se mobiliado e equipado. Móveis planejados da formus , eletros e splits instalados, persianas automatizadas.\nSão 4 vagas de garagem e o condomínio conta com extensa a´rea de lazer. Piscina , playground, cinema, brinquedoteca, academis, salão de festas, tudo para seu conforto e praticidade.\nAgende já uma visita!<br />\n<br /><strong>Características:</strong><br>\n\n• &nbsp;Acabamento em Gesso<br>\n• &nbsp;Aceita Pet<br>\n• &nbsp;Andar Alto<br>\n• &nbsp;Aquecimento de Água<br>\n• &nbsp;Área de Serviço<br>\n• &nbsp;Banheiro de Serviço<br>\n• &nbsp;Câmeras de Segurança<br>\n• &nbsp;Churrasqueira<br>\n• &nbsp;Cozinha<br>\n• &nbsp;Elevador<br>\n• &nbsp;Entrada de Serviço<br>\n• &nbsp;Espaço Fitness<br>\n• &nbsp;Espaço Gourmet<br>\n• &nbsp;Home Office<br>\n• &nbsp;Infra para Ar Split<br>\n• &nbsp;Lavabo<br>\n• &nbsp;Móveis Planejados<br>\n• &nbsp;Piscina<br>\n• &nbsp;Piso Porcelanato<br>\n• &nbsp;Playground<br>\n• &nbsp;Portão Eletrônico<br>\n• &nbsp;Sacada com Churrasqueira<br>\n• &nbsp;Sala de Estar<br>\n• &nbsp;Sala de Jantar<br>\n• &nbsp;Sala de Jogos<br>\n• &nbsp;Salão de Festas<br><br>\n",
     "listPrice": {
-      "value": "1090000",
+      "value": "2350000",
       "currency": "BRL"
     },
     "propertyAdministrationFee": null,
     "constructedArea": {
-      "value": "81",
+      "value": "208",
       "unit": "square metres"
     },
     "livingArea": {
-      "value": "81",
+      "value": "208",
       "unit": "square metres"
     },
     "lotArea": {
-      "value": "107",
+      "value": "301",
       "unit": "square metres"
     },
-    "bedrooms": "2",
-    "bathrooms": "2",
-    "suites": "2",
+    "bedrooms": "3",
+    "bathrooms": "4",
+    "suites": "3",
     "garage": {
-      "value": "2",
+      "value": "4",
       "type": "Parking Space"
     },
     "features": [
-      "Cooling",
+      "Pets Allowed",
       "Maid's Quarters",
-      "Bicycles Place",
       "TV Security",
       "BBQ",
+      "Kitchen",
       "Elevator",
       "Fitness Room",
       "Gourmet Area",
+      "Home Office",
       "Playground",
       "Barbecue Balcony",
       "BBQ",
@@ -3079,10 +3207,282 @@
       "Party Room",
       "Parking Garage"
     ],
+    "neighborhood": "América",
+    "address": "Rua Fernando Machado",
+    "streetNumber": "407",
+    "complement": "703",
+    "postalCode": "89204-400"
+  },
+  {
+    "listingID": "145",
+    "title": "APARTAMENTO MOBILIADO NO GLÓRIA",
+    "detailViewUrl": "https://www.jardins.imb.br/imovel/apartamento-joinville-gloria-2-quartos-1-garagem-venda-ref-145/",
+    "tipologia": "Apartamento",
+    "description": "Um apartamento que faz você se apaixonar a primeira vista. \nSão 110m² de muito charme e conforto. \nPossui 1 suíte ampla mais 1 dormitório, sacada integrada e muito charme em todos os detalhes.\nO apartamento foi totalmente reformado e decorado. Fica com porteira fechada. Iluminação com automação por voz.\nPrédio com salão de festas, playground, quadra e elevador.\nNão perca essa oportunidade.<br />\n<br /><strong>Características:</strong><br>\n\n• &nbsp;Aceita Pet<br>\n• &nbsp;Andar Alto<br>\n• &nbsp;Área de Serviço<br>\n• &nbsp;Banheiro Social<br>\n• &nbsp;Bicicletário<br>\n• &nbsp;Câmeras de Segurança<br>\n• &nbsp;Cozinha<br>\n• &nbsp;Decorado<br>\n• &nbsp;Elevador<br>\n• &nbsp;Infra para Ar Split<br>\n• &nbsp;Internet / WiFi<br>\n• &nbsp;Mini Mercado<br>\n• &nbsp;Móveis Planejados<br>\n• &nbsp;Piso Porcelanato<br>\n• &nbsp;Portão Eletrônico<br>\n• &nbsp;Portaria 24h<br>\n• &nbsp;Sacada Integrada<br>\n• &nbsp;Sala de Estar<br>\n• &nbsp;Sala de Jantar<br>\n• &nbsp;Salão de Festas<br>\n• &nbsp;Vista Livre<br><br>\n",
+    "listPrice": {
+      "value": "980000",
+      "currency": "BRL"
+    },
+    "propertyAdministrationFee": {
+      "value": "550",
+      "currency": "BRL"
+    },
+    "constructedArea": {
+      "value": "110",
+      "unit": "square metres"
+    },
+    "livingArea": {
+      "value": "110",
+      "unit": "square metres"
+    },
+    "lotArea": {
+      "value": "125",
+      "unit": "square metres"
+    },
+    "bedrooms": "2",
+    "bathrooms": "2",
+    "suites": "1",
+    "garage": {
+      "value": "1",
+      "type": "Parking Space"
+    },
+    "features": [
+      "Pets Allowed",
+      "Maid's Quarters",
+      "Bicycles Place",
+      "TV Security",
+      "Kitchen",
+      "Elevator",
+      "Doorman",
+      "Controlled Access",
+      "Balcony",
+      "Integrated Environments",
+      "Living Room",
+      "Dining Room",
+      "Party Room",
+      "Parking Garage"
+    ],
+    "neighborhood": "Glória",
+    "address": "Rua Benjamin Constant",
+    "streetNumber": "1798",
+    "complement": "804",
+    "postalCode": "89217-301"
+  },
+  {
+    "listingID": "144",
+    "title": "APARTAMENTO MOBILIADO NO ATIRADORES",
+    "detailViewUrl": "https://www.jardins.imb.br/imovel/apartamento-joinville-america-3-quartos-1-garagem-venda-ref-144/",
+    "tipologia": "Apartamento",
+    "description": "Apartamento super modermo em estilo industrial na rua mais charmosa da cidade.\nSão 116m² privativos, 2 suítes mais 1 dormitório, lavabo e sacada integrada. \nProjeto luminotécnico diferenciado. Splits, persianas e iluminação com automação por acionamento a distância.\n1 vaga de garagem com tomada para carro elétrico.\nAndar alto com vista livre e ventilação cruzada.Aquecimento a gás.\nPrédio com salão de festas , quadra e elevador e projeto de retrofit já aprovado.\nAgende uma visita e se encante.<br />\n<br /><strong>Características:</strong><br>\n\n• &nbsp;Cozinha<br>\n• &nbsp;Elevador<br>\n• &nbsp;Fechadura Eletrônica<br>\n• &nbsp;Infra para Ar Split<br>\n• &nbsp;Internet / WiFi<br>\n• &nbsp;Lavabo<br>\n• &nbsp;Móveis Planejados<br>\n• &nbsp;Piso de Madeira<br>\n• &nbsp;Piso Porcelanato<br>\n• &nbsp;Sacada Integrada<br>\n• &nbsp;Sala de Estar<br>\n• &nbsp;Sala de Jantar<br>\n• &nbsp;Salão de Festas<br><br>\n",
+    "listPrice": {
+      "value": "1080000",
+      "currency": "BRL"
+    },
+    "propertyAdministrationFee": null,
+    "constructedArea": {
+      "value": "116",
+      "unit": "square metres"
+    },
+    "livingArea": {
+      "value": "116",
+      "unit": "square metres"
+    },
+    "lotArea": {
+      "value": "134",
+      "unit": "square metres"
+    },
+    "bedrooms": "3",
+    "bathrooms": "2",
+    "suites": "2",
+    "garage": {
+      "value": "1",
+      "type": "Parking Space"
+    },
+    "features": [
+      "Kitchen",
+      "Elevator",
+      "Hard Wood Floor",
+      "Balcony",
+      "Integrated Environments",
+      "Living Room",
+      "Dining Room",
+      "Party Room",
+      "Parking Garage"
+    ],
+    "neighborhood": "América",
+    "address": "Rua Otto Boehm",
+    "streetNumber": null,
+    "complement": null,
+    "postalCode": "89201-700"
+  },
+  {
+    "listingID": "142",
+    "title": "APARTAMENTO COM 3 SUÍTES E ESCRITÓRIO NO ATIRADORES",
+    "detailViewUrl": "https://www.jardins.imb.br/imovel/apartamento-joinville-atiradores-3-quartos-3-garagens-venda-ref-142/",
+    "tipologia": "Apartamento",
+    "description": "Um maravilhoso giardino mobiliado no Atiradores.\nApartamento com 265m² privativos, living integrado , uma espaçosa sacada com churrasqueira, 3 suítes mais 1 escritório e espaço de jardim com jacuzzi. Além disso, conta com 3 vagas de garagem.\nO apartamento foi totalmente mobiliado para venda, tudo novo.\nPrédio com localização privilegiada, piscina externa e piscina interna aquecida, academia, salão de festas adulto, kids e espaço teens. Cinema, sala de massagem e espaço beauty.\nAgende uma visita e se encante!<br />\n<br />\n• &nbsp;Persianas automatizadas<br>\n• &nbsp;Jacuzzi<br>\n• &nbsp;Sol da manhã nos quartos<br>\n\n<br /><strong>Características:</strong><br>\n\n• &nbsp;Acabamento em Gesso<br>\n• &nbsp;Aceita Pet<br>\n• &nbsp;Acessibilidade para PNE<br>\n• &nbsp;Aquecimento de Água<br>\n• &nbsp;Área de Serviço<br>\n• &nbsp;Banheiro de Serviço<br>\n• &nbsp;Brinquedoteca<br>\n• &nbsp;Câmeras de Segurança<br>\n• &nbsp;Churrasqueira<br>\n• &nbsp;Cozinha Americana<br>\n• &nbsp;Decorado<br>\n• &nbsp;Elevador<br>\n• &nbsp;Entrada de Serviço<br>\n• &nbsp;Espaço Fitness<br>\n• &nbsp;Espaço Gourmet<br>\n• &nbsp;Fechadura Eletrônica<br>\n• &nbsp;Gás Central<br>\n• &nbsp;Hall Decorado e Mobiliado<br>\n• &nbsp;Home Office<br>\n• &nbsp;Infra para Ar Split<br>\n• &nbsp;Internet / WiFi<br>\n• &nbsp;Lavabo<br>\n• &nbsp;Medidores Individuais<br>\n• &nbsp;Móveis Planejados<br>\n• &nbsp;Pet Place<br>\n• &nbsp;Piscina<br>\n• &nbsp;Piscina Privativa<br>\n• &nbsp;Pìscina Térmica<br>\n• &nbsp;Piso Porcelanato<br>\n• &nbsp;Piso Vinílico<br>\n• &nbsp;Playground<br>\n• &nbsp;Portão Eletrônico<br>\n• &nbsp;Portaria 24h<br>\n• &nbsp;Quiosque Externo<br>\n• &nbsp;Sacada com Churrasqueira<br>\n• &nbsp;Sala de Estar<br>\n• &nbsp;Sala de Jantar<br>\n• &nbsp;Sala de Jogos<br>\n• &nbsp;Salão de Festas<br>\n• &nbsp;Sauna<br>\n• &nbsp;Spa<br>\n• &nbsp;Terraço<br><br>\n",
+    "listPrice": {
+      "value": "2995000",
+      "currency": "BRL"
+    },
+    "propertyAdministrationFee": {
+      "value": "1200",
+      "currency": "BRL"
+    },
+    "constructedArea": {
+      "value": "265",
+      "unit": "square metres"
+    },
+    "livingArea": {
+      "value": "265",
+      "unit": "square metres"
+    },
+    "lotArea": {
+      "value": "359",
+      "unit": "square metres"
+    },
+    "bedrooms": "3",
+    "bathrooms": "4",
+    "suites": "3",
+    "garage": {
+      "value": "3",
+      "type": "Parking Space"
+    },
+    "features": [
+      "Pets Allowed",
+      "Maid's Quarters",
+      "TV Security",
+      "BBQ",
+      "Elevator",
+      "Fitness Room",
+      "Gourmet Area",
+      "Home Office",
+      "Pool",
+      "Playground",
+      "Doorman",
+      "Controlled Access",
+      "Barbecue Balcony",
+      "BBQ",
+      "Living Room",
+      "Dining Room",
+      "Game room",
+      "Party Room",
+      "Sauna",
+      "Parking Garage"
+    ],
     "neighborhood": "Atiradores",
-    "address": "Rua Visconde de Taunay",
-    "streetNumber": "1020",
-    "complement": "901 A",
-    "postalCode": "89203-005"
+    "address": "Rua Expedicionário Holz",
+    "streetNumber": "180",
+    "complement": "322",
+    "postalCode": "89203-085"
+  },
+  {
+    "listingID": "120",
+    "title": "APARTAMENTO COM 2 SUÍTES NO ANITA GARIBALDI",
+    "detailViewUrl": "https://www.jardins.imb.br/imovel/apartamento-joinville-anita-garibaldi-2-quartos-2-garagens-venda-ref-120/",
+    "tipologia": "Apartamento",
+    "description": "Um belíssimo apartamento no Anita Garibaldi com 131m² , 2 suítes amplas, living totalmente integrado com churrasqueira.\nFica totalmente mobiliado e equipado. 2 vagas de garagem individuais.\nPrédio com piscina, academia , salão de festas.\nAgende e venha conhecer.<br />\n<br />\n• &nbsp;Vista Livre<br>\n• &nbsp;Persianas automatizadas<br>\n• &nbsp;Localização privilegiada<br>\n\n<br /><strong>Características:</strong><br>\n\n• &nbsp;Acabamento em Gesso<br>\n• &nbsp;Andar Alto<br>\n• &nbsp;Área de Serviço<br>\n• &nbsp;Banheiro de Serviço<br>\n• &nbsp;Bicicletário<br>\n• &nbsp;Churrasqueira<br>\n• &nbsp;Cozinha<br>\n• &nbsp;Elevador<br>\n• &nbsp;Espaço Fitness<br>\n• &nbsp;Fechadura Eletrônica<br>\n• &nbsp;Infra para Ar Split<br>\n• &nbsp;Internet / WiFi<br>\n• &nbsp;Lavabo<br>\n• &nbsp;Móveis Planejados<br>\n• &nbsp;Piscina<br>\n• &nbsp;Piso Porcelanato<br>\n• &nbsp;Playground<br>\n• &nbsp;Sacada com Churrasqueira<br>\n• &nbsp;Sala<br>\n• &nbsp;Sala de Estar<br>\n• &nbsp;Sala de Jantar<br>\n• &nbsp;Salão de Festas<br><br>\n",
+    "listPrice": {
+      "value": "1450000",
+      "currency": "BRL"
+    },
+    "propertyAdministrationFee": null,
+    "constructedArea": {
+      "value": "131",
+      "unit": "square metres"
+    },
+    "livingArea": {
+      "value": "131",
+      "unit": "square metres"
+    },
+    "lotArea": {
+      "value": "165",
+      "unit": "square metres"
+    },
+    "bedrooms": "2",
+    "bathrooms": "4",
+    "suites": "2",
+    "garage": {
+      "value": "2",
+      "type": "Parking Space"
+    },
+    "features": [
+      "Maid's Quarters",
+      "Bicycles Place",
+      "BBQ",
+      "Kitchen",
+      "Elevator",
+      "Fitness Room",
+      "Playground",
+      "Barbecue Balcony",
+      "BBQ",
+      "Living Room",
+      "Dining Room",
+      "Party Room",
+      "Parking Garage"
+    ],
+    "neighborhood": "Anita Garibaldi",
+    "address": "Rua Pernambuco",
+    "streetNumber": "130",
+    "complement": "502",
+    "postalCode": "89202-142"
+  },
+  {
+    "listingID": "133",
+    "title": "APARTAMENTO COM 3 DORMITÓRIOS NO ATIRADORES",
+    "detailViewUrl": "https://www.jardins.imb.br/imovel/apartamento-joinville-atiradores-4-quartos-2-garagens-venda-ref-133/",
+    "tipologia": "Apartamento",
+    "description": "Um apartamento com cara de casa no coração do Atiradores.\nSão 205m² de área privativa, living totalmente integrado, sacada fechada com reike e churrasqueira a carvão. \nSão 4 dormitórios na planta original e um deles trasnformado em escritório/ateliê. Para maior conforto, conta ainda com lavabo. A suíte principal contempla closet, banheira e uma sacada super aconchegante.\nNas dependências de serviço, além da lavanderia, possui 1 dormitório e 1 banheiro.\nO apartamento é perfeito pra quem gosta de receber amigos e familiares. Espaços amplos, iluminados e cheios de charme.\nO condomínio possui piscina, salão de festas e playground e fica localizado numa rua tranquila com a praticidade de ter restaurantes, mercado e academias a poucos passos de caminhada.\nAgende uma visita e se encante.\n<br />\n<br /><strong>Características:</strong><br>\n\n• &nbsp;Acabamento em Gesso<br>\n• &nbsp;Aceita Pet<br>\n• &nbsp;Andar Alto<br>\n• &nbsp;Aquecimento de Água<br>\n• &nbsp;Área de Serviço<br>\n• &nbsp;Banheiro de Serviço<br>\n• &nbsp;Banheiro Social<br>\n• &nbsp;Câmeras de Segurança<br>\n• &nbsp;Churrasqueira<br>\n• &nbsp;Closet<br>\n• &nbsp;Cozinha<br>\n• &nbsp;Dependência de Empregada<br>\n• &nbsp;Elevador<br>\n• &nbsp;Entrada de Serviço<br>\n• &nbsp;Espaço Gourmet<br>\n• &nbsp;Hall Decorado e Mobiliado<br>\n• &nbsp;Hidromassagem<br>\n• &nbsp;Infra para Ar Split<br>\n• &nbsp;Internet / WiFi<br>\n• &nbsp;Lavabo<br>\n• &nbsp;Móveis Planejados<br>\n• &nbsp;Piscina<br>\n• &nbsp;Piso Laminado<br>\n• &nbsp;Piso Porcelanato<br>\n• &nbsp;Playground<br>\n• &nbsp;Portão Eletrônico<br>\n• &nbsp;Sacada com Churrasqueira<br>\n• &nbsp;Sala de Estar<br>\n• &nbsp;Sala de Estar Íntimo<br>\n• &nbsp;Sala de Jantar<br>\n• &nbsp;Salão de Festas<br>\n• &nbsp;Suíte Master<br><br>\n",
+    "listPrice": {
+      "value": "1450000",
+      "currency": "BRL"
+    },
+    "propertyAdministrationFee": {
+      "value": "1100",
+      "currency": "BRL"
+    },
+    "constructedArea": {
+      "value": "205",
+      "unit": "square metres"
+    },
+    "livingArea": {
+      "value": "205",
+      "unit": "square metres"
+    },
+    "lotArea": {
+      "value": "238",
+      "unit": "square metres"
+    },
+    "bedrooms": "4",
+    "bathrooms": "3",
+    "suites": "1",
+    "garage": {
+      "value": "2",
+      "type": "Parking Space"
+    },
+    "features": [
+      "Pets Allowed",
+      "Maid's Quarters",
+      "TV Security",
+      "BBQ",
+      "Closet",
+      "Kitchen",
+      "Maid's Quarters",
+      "Elevator",
+      "Gourmet Area",
+      "Jacuzzi/Hot Tub",
+      "Playground",
+      "Barbecue Balcony",
+      "BBQ",
+      "Living Room",
+      "Dining Room",
+      "Party Room",
+      "Parking Garage"
+    ],
+    "neighborhood": "Atiradores",
+    "address": "Rua João Theis",
+    "streetNumber": "98",
+    "complement": "92",
+    "postalCode": "89203-074"
   }
 ]

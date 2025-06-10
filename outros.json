@@ -1,46 +1,43 @@
 [
   {
-    "listingID": "125",
-    "title": "COBERTURA PLANA NO AMÉRICA COM 3 SUÍTES",
-    "detailViewUrl": "https://www.jardins.imb.br/imovel/cobertura-joinville-america-3-quartos-2-garagens-venda-ref-125/",
+    "listingID": "146",
+    "title": "COBERTURA PLANA COM 3 SUÍTES NO COSTA E SILVA",
+    "detailViewUrl": "https://www.jardins.imb.br/imovel/cobertura-joinville-costa-e-silva-3-quartos-3-garagens-venda-ref-146/",
     "tipologia": "Cobertura",
-    "description": "Cobertura plana no bairro América.\nSão 230m² de área privativa, um living amplo e integrado com churrasqueira. \nÁrea externa com uma vista maravilhosa para área verde e para a serra do mar.\nPossui 3 suítes, sendo uma delas com closet e hidromassagem, persianas externas com automação, móveis planejados em todos os ambientes e conta ainda com 2 vagas de garagem individuais.\nPrédio com salão de festas, piscina aquecida e espaço fitness.\nAgende sua visita!<br />\n<br /><strong>Características:</strong><br>\n\n• &nbsp;Acabamento em Gesso<br>\n• &nbsp;Aquecimento de Água<br>\n• &nbsp;Área de Serviço<br>\n• &nbsp;Câmeras de Segurança<br>\n• &nbsp;Churrasqueira<br>\n• &nbsp;Closet<br>\n• &nbsp;Cozinha<br>\n• &nbsp;Elevador<br>\n• &nbsp;Entrada de Serviço<br>\n• &nbsp;Espaço Fitness<br>\n• &nbsp;Espaço Gourmet<br>\n• &nbsp;Infra para Ar Split<br>\n• &nbsp;Lavabo<br>\n• &nbsp;Móveis Planejados<br>\n• &nbsp;Pìscina Térmica<br>\n• &nbsp;Piso Vinílico<br>\n• &nbsp;Portão Eletrônico<br>\n• &nbsp;Sacada com Churrasqueira<br>\n• &nbsp;Sala de Estar<br>\n• &nbsp;Sala de Jantar<br>\n• &nbsp;Salão de Festas<br>\n• &nbsp;Suíte Master<br>\n• &nbsp;Vista Livre<br><br>\n",
+    "description": "Uma maravilhosa cobertura plana no comecinho do Costa e Silva.\nSão 215m² que contam com um living integrado, 3 suítes , lavabo, espaço gourmet com acesso à piscina e vista panorâmica.\nMuito espaço para você receber família e amigos. Uma área gourmet com churrasqueira , extremamente aconchegante , e que favorece o convívio em família. \nMóveis planejados em todos os ambientes.\nPrédio com salão de festas, playground e piscina.\nAgende uma visita e se encante!\n<br />\n<br /><strong>Características:</strong><br>\n\n• &nbsp;Acabamento em Gesso<br>\n• &nbsp;Aceita Pet<br>\n• &nbsp;Andar Alto<br>\n• &nbsp;Área de Serviço<br>\n• &nbsp;Banheiro Social<br>\n• &nbsp;Brinquedoteca<br>\n• &nbsp;Churrasqueira<br>\n• &nbsp;Closet<br>\n• &nbsp;Cozinha<br>\n• &nbsp;Decorado<br>\n• &nbsp;Elevador<br>\n• &nbsp;Infra para Ar Split<br>\n• &nbsp;Internet / WiFi<br>\n• &nbsp;Lavabo<br>\n• &nbsp;Móveis Planejados<br>\n• &nbsp;Piscina<br>\n• &nbsp;Piscina Privativa<br>\n• &nbsp;Piso Porcelanato<br>\n• &nbsp;Playground<br>\n• &nbsp;Sacada com Churrasqueira<br>\n• &nbsp;Sala de Estar<br>\n• &nbsp;Sala de Jantar<br>\n• &nbsp;Salão de Festas<br>\n• &nbsp;Vista Livre<br>\n• &nbsp;Vista Panorâmica<br><br>\n",
     "listPrice": {
-      "value": "2300000",
+      "value": "1790000",
       "currency": "BRL"
     },
-    "propertyAdministrationFee": {
-      "value": "700",
-      "currency": "BRL"
-    },
+    "propertyAdministrationFee": null,
     "constructedArea": {
-      "value": "232",
+      "value": "215",
       "unit": "square metres"
     },
     "livingArea": {
-      "value": "232",
+      "value": "215",
       "unit": "square metres"
     },
     "lotArea": {
-      "value": "255",
+      "value": "260",
       "unit": "square metres"
     },
     "bedrooms": "3",
-    "bathrooms": "3",
+    "bathrooms": "4",
     "suites": "3",
     "garage": {
-      "value": "2",
+      "value": "3",
       "type": "Parking Space"
     },
     "features": [
+      "Pets Allowed",
       "Maid's Quarters",
-      "TV Security",
       "BBQ",
       "Closet",
       "Kitchen",
       "Elevator",
-      "Fitness Room",
-      "Gourmet Area",
+      "Pool",
+      "Playground",
       "Barbecue Balcony",
       "BBQ",
       "Living Room",
@@ -48,11 +45,48 @@
       "Party Room",
       "Parking Garage"
     ],
+    "neighborhood": "Costa e Silva",
+    "address": "Rua Adolpho Ernesto Fischer",
+    "streetNumber": "37",
+    "complement": "802",
+    "postalCode": "89218-370"
+  },
+  {
+    "listingID": "134",
+    "title": "TERRENO COMERCIAL",
+    "detailViewUrl": "https://www.jardins.imb.br/imovel/terreno-joinville-america-venda-ref-134/",
+    "tipologia": "Terreno",
+    "description": "Um terreno ideal para sua empresa ou incorporação vertical.\nConsulte condições.\n\nÁREA TOTAL: 900,00m²\n\nMETRAGENS: \nFRENTE: 18,00m\nFUNDOS: 18,00m\nLAT. DIREITA: 50,00m\nLAT. ESQUERDA: 50,00m\n\nZONEAMENTO: \nMACROZONAS: AUAE\nSETORES: SA-05 / Faixa Viária\n\nGABARITO:\n20 pavimentos com outorga \n <br />",
+    "listPrice": {
+      "value": "1520000",
+      "currency": "BRL"
+    },
+    "propertyAdministrationFee": null,
+    "constructedArea": {
+      "value": "900",
+      "unit": "square metres"
+    },
+    "livingArea": {
+      "value": "900",
+      "unit": "square metres"
+    },
+    "lotArea": {
+      "value": "900",
+      "unit": "square metres"
+    },
+    "bedrooms": "0",
+    "bathrooms": "0",
+    "suites": "0",
+    "garage": {
+      "value": null,
+      "type": null
+    },
+    "features": [],
     "neighborhood": "América",
-    "address": "Rua Max Colin",
-    "streetNumber": "1510",
-    "complement": "801",
-    "postalCode": "89204-041"
+    "address": "Rua Benjamin Constant",
+    "streetNumber": "307",
+    "complement": null,
+    "postalCode": "89204-360"
   },
   {
     "listingID": "83",
@@ -134,11 +168,11 @@
   {
     "listingID": "84",
     "title": "COBERTURA PLANA NO AMÉRICA",
-    "detailViewUrl": "https://www.jardins.imb.br/imovel/cobertura-joinville-america-3-quartos-4-garagens-venda-ref-84/",
+    "detailViewUrl": "https://www.jardins.imb.br/imovel/cobertura-joinville-america-3-quartos-6-garagens-venda-ref-84/",
     "tipologia": "Cobertura",
-    "description": "Cobertura plana no bairro América.\nEssa cobertura possui 347m² de área privativa, 3 amplas suítes com acesso ao terraço, living totalmente integrado e uma área externa perfeita com vista panorâmica da cidade e com a possibilidade de instalação de uma jacuzzi.\nA iluminação natural e a ventilação cruzada proporcionam  muito conforto sem contar que são 3 faces de sol e uma vista de tirar o fôlego.\nPerfeito pra quem prioriza o conforto de ambientes espaçosos  e a praticidade de estar pertinho de tudo. \nConfira alguns diferenciais que só ela proporciona:\n - Infra para automação de persianas, ar, som e luzes nas salas;\n - Home theater preparado para som e projetor, além de infra para instalação de 8 autofalantes nas salas;\n - Circulação de água quente nas torneiras;\n - Churrasqueira com chaminé individual; \n - Piso dos banheiros com aquecimento;\nE o prédio conta com piscina, salão de festas e academia.\n\nAgende sua visita, você vai se deslumbrar com ela.<br />\n<br /><strong>Características:</strong><br>\n\n• &nbsp;Acabamento em Gesso<br>\n• &nbsp;Andar Alto<br>\n• &nbsp;Aquecimento de Água<br>\n• &nbsp;Área de Serviço<br>\n• &nbsp;Banheiro de Serviço<br>\n• &nbsp;Câmeras de Segurança<br>\n• &nbsp;Churrasqueira<br>\n• &nbsp;Closet<br>\n• &nbsp;Cozinha<br>\n• &nbsp;Elevador<br>\n• &nbsp;Entrada de Serviço<br>\n• &nbsp;Espaço Fitness<br>\n• &nbsp;Espaço Gourmet<br>\n• &nbsp;Infra para Ar Split<br>\n• &nbsp;Lavabo<br>\n• &nbsp;Piscina<br>\n• &nbsp;Piso Porcelanato<br>\n• &nbsp;Piso Vinílico<br>\n• &nbsp;Portão Eletrônico<br>\n• &nbsp;Sacada / Varanda<br>\n• &nbsp;Sala de Estar<br>\n• &nbsp;Sala de Estar Íntimo<br>\n• &nbsp;Sala de Jantar<br>\n• &nbsp;Salão de Festas<br><br>\n",
+    "description": "Cobertura plana no bairro América.\nEssa cobertura possui 347m² de área privativa, 3 amplas suítes com acesso ao terraço, living totalmente integrado e uma área externa perfeita com vista panorâmica da cidade e com a possibilidade de instalação de uma jacuzzi.\nA iluminação natural e a ventilação cruzada proporcionam  muito conforto sem contar que são 3 faces de sol e uma vista de tirar o fôlego.\nE para você que gosta de colecionar carros ou gosta de receber seus amigos e familiares em casa, ela conta com 6 vagas de garagens. \nPerfeito pra quem prioriza o conforto de ambientes espaçosos  e a praticidade de estar pertinho de tudo. \nConfira alguns diferenciais que só ela proporciona:\n - Infra para automação de persianas, ar, som e luzes nas salas;\n - Home theater preparado para som e projetor, além de infra para instalação de 8 autofalantes nas salas;\n - Circulação de água quente nas torneiras;\n - Churrasqueira com chaminé individual; \n - Piso dos banheiros com aquecimento;\nE o prédio conta com piscina, salão de festas e academia.\n\nAgende sua visita, você vai se deslumbrar com ela.<br />\n<br /><strong>Características:</strong><br>\n\n• &nbsp;Acabamento em Gesso<br>\n• &nbsp;Andar Alto<br>\n• &nbsp;Aquecimento de Água<br>\n• &nbsp;Área de Serviço<br>\n• &nbsp;Banheiro de Serviço<br>\n• &nbsp;Câmeras de Segurança<br>\n• &nbsp;Churrasqueira<br>\n• &nbsp;Closet<br>\n• &nbsp;Cozinha<br>\n• &nbsp;Elevador<br>\n• &nbsp;Entrada de Serviço<br>\n• &nbsp;Espaço Fitness<br>\n• &nbsp;Espaço Gourmet<br>\n• &nbsp;Infra para Ar Split<br>\n• &nbsp;Lavabo<br>\n• &nbsp;Piscina<br>\n• &nbsp;Piso Porcelanato<br>\n• &nbsp;Piso Vinílico<br>\n• &nbsp;Portão Eletrônico<br>\n• &nbsp;Sacada / Varanda<br>\n• &nbsp;Sala de Estar<br>\n• &nbsp;Sala de Estar Íntimo<br>\n• &nbsp;Sala de Jantar<br>\n• &nbsp;Salão de Festas<br><br>\n",
     "listPrice": {
-      "value": "3090000",
+      "value": "3190000",
       "currency": "BRL"
     },
     "propertyAdministrationFee": {
@@ -161,7 +195,7 @@
     "bathrooms": "4",
     "suites": "3",
     "garage": {
-      "value": "4",
+      "value": "6",
       "type": "Parking Space"
     },
     "features": [
@@ -279,6 +313,61 @@
     "streetNumber": null,
     "complement": null,
     "postalCode": "88380-000"
+  },
+  {
+    "listingID": "125",
+    "title": "COBERTURA PLANA NO AMÉRICA COM 3 SUÍTES",
+    "detailViewUrl": "https://www.jardins.imb.br/imovel/cobertura-joinville-america-3-quartos-2-garagens-venda-ref-125/",
+    "tipologia": "Cobertura",
+    "description": "Cobertura plana no bairro América.\nSão 230m² de área privativa, um living amplo e integrado com churrasqueira. \nÁrea externa com uma vista maravilhosa para área verde e para a serra do mar.\nPossui 3 suítes, sendo uma delas com closet e hidromassagem, persianas externas com automação, móveis planejados em todos os ambientes e conta ainda com 2 vagas de garagem individuais.\nPrédio com salão de festas, piscina aquecida e espaço fitness.\nAgende sua visita!<br />\n<br /><strong>Características:</strong><br>\n\n• &nbsp;Acabamento em Gesso<br>\n• &nbsp;Aquecimento de Água<br>\n• &nbsp;Área de Serviço<br>\n• &nbsp;Câmeras de Segurança<br>\n• &nbsp;Churrasqueira<br>\n• &nbsp;Closet<br>\n• &nbsp;Cozinha<br>\n• &nbsp;Elevador<br>\n• &nbsp;Entrada de Serviço<br>\n• &nbsp;Espaço Fitness<br>\n• &nbsp;Espaço Gourmet<br>\n• &nbsp;Infra para Ar Split<br>\n• &nbsp;Lavabo<br>\n• &nbsp;Móveis Planejados<br>\n• &nbsp;Pìscina Térmica<br>\n• &nbsp;Piso Vinílico<br>\n• &nbsp;Portão Eletrônico<br>\n• &nbsp;Sacada com Churrasqueira<br>\n• &nbsp;Sala de Estar<br>\n• &nbsp;Sala de Jantar<br>\n• &nbsp;Salão de Festas<br>\n• &nbsp;Suíte Master<br>\n• &nbsp;Vista Livre<br><br>\n",
+    "listPrice": {
+      "value": "2300000",
+      "currency": "BRL"
+    },
+    "propertyAdministrationFee": {
+      "value": "700",
+      "currency": "BRL"
+    },
+    "constructedArea": {
+      "value": "232",
+      "unit": "square metres"
+    },
+    "livingArea": {
+      "value": "232",
+      "unit": "square metres"
+    },
+    "lotArea": {
+      "value": "255",
+      "unit": "square metres"
+    },
+    "bedrooms": "3",
+    "bathrooms": "3",
+    "suites": "3",
+    "garage": {
+      "value": "2",
+      "type": "Parking Space"
+    },
+    "features": [
+      "Maid's Quarters",
+      "TV Security",
+      "BBQ",
+      "Closet",
+      "Kitchen",
+      "Elevator",
+      "Fitness Room",
+      "Gourmet Area",
+      "Barbecue Balcony",
+      "BBQ",
+      "Living Room",
+      "Dining Room",
+      "Party Room",
+      "Parking Garage"
+    ],
+    "neighborhood": "América",
+    "address": "Rua Max Colin",
+    "streetNumber": "1510",
+    "complement": "801",
+    "postalCode": "89204-041"
   },
   {
     "listingID": "97",
@@ -411,5 +500,51 @@
     "streetNumber": "195",
     "complement": "Apto. 903",
     "postalCode": "89221-301"
+  },
+  {
+    "listingID": "147",
+    "title": "SALA COMERCIAL MOBILIADA NO CENTRO",
+    "detailViewUrl": "https://www.jardins.imb.br/imovel/sala-comercial-joinville-centro-1-garagem-venda-ref-147/",
+    "tipologia": "Sala Comercial",
+    "description": "Uma excelente sala comercial no Edf. Helbor Offices\nPossui recepção , lavabo, 2 salas de atendimento, copa e mais 1 banheiro. \n1 vaga de garagem\nPrédio com elevador inteligente, portaria , estacionamento para visitantes e cafeteria.\nSala com móveis planejados, persianas e splits.\nExcelente localização, pertinho do Shopping Mueller. Ótima  opção para consultório médico, clínica de psicologia, escritório.\nAgende uma visita!\n<br />\n<br /><strong>Características:</strong><br>\n\n• &nbsp;Acabamento em Gesso<br>\n• &nbsp;Câmeras de Segurança<br>\n• &nbsp;Copa<br>\n• &nbsp;Elevador<br>\n• &nbsp;Infra para Ar Split<br>\n• &nbsp;Lavabo<br>\n• &nbsp;Móveis Planejados<br>\n• &nbsp;Piso Vinílico<br>\n• &nbsp;Portão Eletrônico<br>\n• &nbsp;Portaria 24h<br><br>\n",
+    "listPrice": {
+      "value": "450000",
+      "currency": "BRL"
+    },
+    "propertyAdministrationFee": {
+      "value": "430",
+      "currency": "BRL"
+    },
+    "constructedArea": {
+      "value": "40",
+      "unit": "square metres"
+    },
+    "livingArea": {
+      "value": "40",
+      "unit": "square metres"
+    },
+    "lotArea": {
+      "value": "78",
+      "unit": "square metres"
+    },
+    "bedrooms": "0",
+    "bathrooms": "2",
+    "suites": "0",
+    "garage": {
+      "value": "1",
+      "type": "Parking Space"
+    },
+    "features": [
+      "TV Security",
+      "Elevator",
+      "Doorman",
+      "Controlled Access",
+      "Parking Garage"
+    ],
+    "neighborhood": "Centro",
+    "address": "Rua Henrique Meyer",
+    "streetNumber": "280",
+    "complement": "308",
+    "postalCode": "89201-405"
   }
 ]

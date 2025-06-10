@@ -1,4 +1,4 @@
-const fs = require('fs');
+import fs from 'fs';
 
 // Função que categoriza os registros com base no campo tipologia
 function categorizeListings(listings) {

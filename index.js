@@ -2,8 +2,8 @@
 // Para versões anteriores, descomente a linha abaixo:
 // const fetch = require('node-fetch');
 
-const { DOMParser } = require('xmldom');
-const fs = require('fs');
+import { DOMParser } from 'xmldom';
+import fs from 'fs';
 
 // URL do XML remoto
 const xmlUrl = 'https://restrito.casteldigital.com.br/vivareal_open/jardins.imb.br-vivareal.xml?auth=jEzonWGJdq';
