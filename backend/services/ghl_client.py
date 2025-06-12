@@ -198,3 +198,78 @@ def manage_location_tokens() -> bool:
     # Salva a lista de localizações de volta no arquivo, agora com os dados dos tokens
     _save_json(LOCATIONS_DATA_FILE, {"locations": updated_locations})
     return True
+
+# ==============================================================================
+# 4. FUNÇÕES DE LÓGICA DE NEGÓCIO
+# ==============================================================================
+
+def update_single_custom_value(location_id: str, access_token: str, custom_value_name: str, new_content: str) -> bool:
+    """
+    Cria ou atualiza um "Valor Personalizado" (Custom Value) em uma localização específica.
+
+    Args:
+        location_id: O ID da sub-conta a ser atualizada.
+        access_token: O token de acesso válido para essa localização.
+        custom_value_name: O nome do valor personalizado (ex: "base_completa_md").
+        new_content: O conteúdo a ser inserido no valor personalizado.
+
+    Returns:
+        True se a operação foi bem-sucedida, False caso contrário.
+    """
+    print(f"\n--- [GHL] Iniciando atualização do Valor Personalizado '{custom_value_name}' para a Location ID: {location_id} ---")
+
+    headers = {
+        "Authorization": f"Bearer {access_token}",
+        "Version": API_VERSION,
+        "Accept": "application/json",
+        "Content-Type": "application/json"
+    }
+
+    # 1. Primeiro, vamos listar os valores personalizados existentes para ver se o nosso já existe.
+    list_url = f"{API_BASE_URL}/locations/{location_id}/customValues"
+    existing_value_id = None
+    
+    try:
+        resp = requests.get(list_url, headers=headers, timeout=20)
+        resp.raise_for_status()
+        existing_values = resp.json().get("customValues", [])
+        
+        for value in existing_values:
+            if value.get("name") == custom_value_name:
+                existing_value_id = value.get("id")
+                print(f"    -> Valor Personalizado '{custom_value_name}' já existe com ID: {existing_value_id}. Será atualizado.")
+                break
+    except requests.exceptions.HTTPError as http_err:
+        print(f"!!! [GHL] ERRO HTTP ao listar Valores Personalizados: {http_err}")
+        print(f"    Detalhes: {resp.text}")
+        return False
+    except Exception as e:
+        print(f"!!! [GHL] Erro inesperado ao listar Valores Personalizados: {e}")
+        return False
+
+    # 2. Agora, vamos criar (POST) ou atualizar (PUT) o valor.
+    try:
+        if existing_value_id:
+            # ATUALIZAR (PUT) um valor existente
+            update_url = f"{API_BASE_URL}/locations/{location_id}/customValues/{existing_value_id}"
+            payload = {"value": new_content}
+            resp = requests.put(update_url, headers=headers, json=payload, timeout=30)
+            resp.raise_for_status()
+            print(f"    <- [GHL] SUCESSO: Valor Personalizado '{custom_value_name}' atualizado.")
+        else:
+            # CRIAR (POST) um novo valor
+            create_url = f"{API_BASE_URL}/locations/{location_id}/customValues"
+            payload = {"name": custom_value_name, "value": new_content}
+            resp = requests.post(create_url, headers=headers, json=payload, timeout=30)
+            resp.raise_for_status()
+            print(f"    <- [GHL] SUCESSO: Valor Personalizado '{custom_value_name}' criado.")
+        
+        return True
+    
+    except requests.exceptions.HTTPError as http_err:
+        print(f"!!! [GHL] ERRO HTTP ao salvar o Valor Personalizado: {http_err}")
+        print(f"    Detalhes: {resp.text}")
+        return False
+    except Exception as e:
+        print(f"!!! [GHL] Erro inesperado ao salvar o Valor Personalizado: {e}")
+        return False

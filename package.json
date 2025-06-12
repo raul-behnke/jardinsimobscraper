@@ -1,18 +1,16 @@
 {
-  "name": "jardins_content_updater",
+  "name": "jardins-imobiliaria-automation",
   "version": "1.0.0",
-  "description": "Processador de imóveis para a Imobiliária Jardins.",
-  "type": "module",
+  "description": "",
   "main": "index.js",
+  "type": "module",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
-    "extract": "node index.js",
-    "categorize": "node categorize.js",
-    "generate-bases": "node generate_knowledge_bases.js",
-    "generate": "npm run extract && npm run categorize && npm run generate-bases"
+    "start": "node index.js"
   },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
   "dependencies": {
-    "he": "^1.2.0",
-    "xmldom": "^0.6.0"
+    "xmldom": "^0.6.0" 
   }
 }

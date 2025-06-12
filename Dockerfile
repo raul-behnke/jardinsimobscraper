@@ -1,20 +1,26 @@
-# 1. Usa uma imagem base oficial do Node.js. A versão 'alpine' é leve e segura.
-FROM node:20-alpine
+# Usa uma imagem base do Node.js que é baseada em Debian, facilitando a instalação do Python.
+FROM node:20-bookworm-slim
 
-# 2. Define o diretório de trabalho dentro do container.
+# Instala Python, pip e outras utilidades
+RUN apt-get update && apt-get install -y python3 python3-pip && rm -rf /var/lib/apt/lists/*
+
+# Define o diretório de trabalho
 WORKDIR /app
 
-# 3. Copia os arquivos de definição de dependências primeiro.
-#    Isso aproveita o cache do Docker. Se esses arquivos não mudarem,
-#    o Docker não reinstalará as dependências em builds futuros.
+# Copia os arquivos de dependência primeiro para aproveitar o cache do Docker
 COPY package*.json ./
+COPY requirements.txt ./
+COPY backend/ backend/
 
-# 4. Instala as dependências do projeto.
+# Instala as dependências do Node.js
 RUN npm install
 
-# 5. Copia todo o resto do código do seu projeto para o diretório de trabalho no container.
+# Instala as dependências do Python
+RUN pip3 install --no-cache-dir -r requirements.txt
+
+# Copia todo o resto do código do projeto
 COPY . .
 
-# 6. Define o comando padrão que será executado quando o container iniciar.
-#    Ele irá rodar todo o seu ciclo de atualização.
-CMD [ "npm", "run", "generate" ]
+# Comando que será executado quando o container iniciar.
+# Ele roda nosso novo script orquestrador principal.
+CMD [ "python3", "backend/main_runner.py" ]

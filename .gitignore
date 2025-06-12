@@ -1,0 +1,27 @@
+# Ambiente Virtual Python
+.venv/
+venv/
+env/
+
+# Dependências do Node.js
+node_modules/
+
+# Arquivos de log e cache
+*.log
+__pycache__/
+*.pyc
+
+# Arquivos de dados gerados (não devem ser versionados)
+output.json
+apartamentos.json
+casas.json
+sobrados.json
+geminados.json
+outros.json
+base_completa.md
+base_resumida.md
+
+# Arquivos de Segredos e Tokens - CRÍTICO!
+backend/.env
+backend/gohighlevel_token.json
+backend/installed_locations_data.json
