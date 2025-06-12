@@ -32,7 +32,6 @@ APP_ID                = os.getenv("APP_ID", "").strip()
 REFRESH_CLIENT_ID     = os.getenv("REFRESH_CLIENT_ID", "").strip()
 REFRESH_CLIENT_SECRET = os.getenv("REFRESH_CLIENT_SECRET", "").strip()
 
-
 # ==============================================================================
 # 2. FUNÇÕES AUXILIARES (HELPERS)
 # ==============================================================================
@@ -46,21 +45,17 @@ def _load_json(path: str) -> Optional[dict]:
         with open(path, "r", encoding="utf-8") as f:
             return json.load(f)
     except FileNotFoundError:
-        # Isso é esperado na primeira vez que o script roda para o locations_data.json
         return None
     except json.JSONDecodeError:
         print(f"!!! [GHL] ERRO: Arquivo JSON inválido ou corrompido em: {path}")
         return None
-
 
 def _save_json(path: str, data: dict) -> None:
     """
     Função para salvar um dicionário como um arquivo JSON formatado no disco.
     """
     with open(path, "w", encoding="utf-8") as f:
-        # indent=4 torna o arquivo legível para humanos
         json.dump(data, f, indent=4, ensure_ascii=False)
-
 
 # ==============================================================================
 # 3. FUNÇÕES PRINCIPAIS DE INTERAÇÃO COM A API
@@ -77,22 +72,20 @@ def refresh_agency_token() -> bool:
         print(">>> SOLUÇÃO: Execute o fluxo de autorização manual (com Postman/cURL) uma vez para gerar este arquivo.")
         return False
 
-    # Prepara os dados para a requisição de refresh
     payload = {
         "grant_type": "refresh_token",
         "client_id": REFRESH_CLIENT_ID,
         "client_secret": REFRESH_CLIENT_SECRET,
         "refresh_token": token_data["refresh_token"],
-        "user_type": token_data.get("userType", "Company") # Garante que o tipo de usuário seja mantido
+        "user_type": token_data.get("userType", "Company")
     }
     headers = {"Content-Type": "application/x-www-form-urlencoded", "Accept": "application/json"}
 
     try:
         resp = requests.post(f"{API_BASE_URL}/oauth/token", data=payload, headers=headers, timeout=30)
-        resp.raise_for_status() # Lança um erro se a resposta for 4xx ou 5xx
+        resp.raise_for_status()
         new_token_data = resp.json()
         
-        # Adiciona informações úteis ao novo token antes de salvar
         timestamp = int(time.time())
         new_token_data["refreshed_at_unix_timestamp"] = timestamp
         new_token_data["refreshed_at_readable"] = time.strftime("%Y-%m-%d %H:%M:%S", time.localtime(timestamp))
@@ -108,7 +101,6 @@ def refresh_agency_token() -> bool:
     except Exception as e:
         print(f"!!! [GHL] Erro inesperado em refresh_agency_token: {e}")
         return False
-
 
 def get_installed_locations() -> bool:
     """
@@ -135,7 +127,6 @@ def get_installed_locations() -> bool:
         resp.raise_for_status()
         data = resp.json()
 
-        # A API pode retornar a lista dentro de uma chave "locations" ou como uma lista direta
         locations_list = data.get("locations", []) if isinstance(data, dict) else data
         _save_json(LOCATIONS_DATA_FILE, {"locations": locations_list})
         print(f">>> [GHL] {len(locations_list)} localização(ões) instalada(s) encontrada(s).")
@@ -148,11 +139,9 @@ def get_installed_locations() -> bool:
         print(f"!!! [GHL] Erro inesperado em get_installed_locations: {e}")
         return False
 
-
 def manage_location_tokens() -> bool:
     """
     Para cada localização encontrada, solicita um token de acesso específico para ela.
-    Isso é útil para realizar ações em nome de uma sub-conta específica.
     """
     agency_token_json = _load_json(AGENCY_TOKEN_FILE)
     if not agency_token_json or "access_token" not in agency_token_json:
@@ -184,7 +173,6 @@ def manage_location_tokens() -> bool:
         try:
             resp = requests.post(f"{API_BASE_URL}/oauth/locationToken", data=payload, headers=headers, timeout=20)
             resp.raise_for_status()
-            # Anexa o token específico da localização ao objeto da localização
             loc["location_specific_token_data"] = resp.json()
         except requests.exceptions.HTTPError as http_err:
             loc["location_specific_token_data"] = {"error": str(http_err), "status_code": resp.status_code, "details": resp.text}
@@ -195,7 +183,6 @@ def manage_location_tokens() -> bool:
         
         updated_locations.append(loc)
 
-    # Salva a lista de localizações de volta no arquivo, agora com os dados dos tokens
     _save_json(LOCATIONS_DATA_FILE, {"locations": updated_locations})
     return True
 
@@ -206,15 +193,6 @@ def manage_location_tokens() -> bool:
 def update_single_custom_value(location_id: str, access_token: str, custom_value_name: str, new_content: str) -> bool:
     """
     Cria ou atualiza um "Valor Personalizado" (Custom Value) em uma localização específica.
-
-    Args:
-        location_id: O ID da sub-conta a ser atualizada.
-        access_token: O token de acesso válido para essa localização.
-        custom_value_name: O nome do valor personalizado (ex: "base_completa_md").
-        new_content: O conteúdo a ser inserido no valor personalizado.
-
-    Returns:
-        True se a operação foi bem-sucedida, False caso contrário.
     """
     print(f"\n--- [GHL] Iniciando atualização do Valor Personalizado '{custom_value_name}' para a Location ID: {location_id} ---")
 
@@ -225,7 +203,6 @@ def update_single_custom_value(location_id: str, access_token: str, custom_value
         "Content-Type": "application/json"
     }
 
-    # 1. Primeiro, vamos listar os valores personalizados existentes para ver se o nosso já existe.
     list_url = f"{API_BASE_URL}/locations/{location_id}/customValues"
     existing_value_id = None
     
@@ -247,17 +224,18 @@ def update_single_custom_value(location_id: str, access_token: str, custom_value
         print(f"!!! [GHL] Erro inesperado ao listar Valores Personalizados: {e}")
         return False
 
-    # 2. Agora, vamos criar (POST) ou atualizar (PUT) o valor.
     try:
         if existing_value_id:
-            # ATUALIZAR (PUT) um valor existente
             update_url = f"{API_BASE_URL}/locations/{location_id}/customValues/{existing_value_id}"
-            payload = {"value": new_content}
+            
+            # <<< CORREÇÃO APLICADA AQUI >>>
+            # Adicionamos o 'name' ao payload, pois a API do GHL exige este campo mesmo na atualização (PUT).
+            payload = {"name": custom_value_name, "value": new_content}
+            
             resp = requests.put(update_url, headers=headers, json=payload, timeout=30)
             resp.raise_for_status()
             print(f"    <- [GHL] SUCESSO: Valor Personalizado '{custom_value_name}' atualizado.")
         else:
-            # CRIAR (POST) um novo valor
             create_url = f"{API_BASE_URL}/locations/{location_id}/customValues"
             payload = {"name": custom_value_name, "value": new_content}
             resp = requests.post(create_url, headers=headers, json=payload, timeout=30)

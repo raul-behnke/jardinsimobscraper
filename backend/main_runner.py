@@ -4,7 +4,7 @@ import os
 import sys
 
 # Importa as funções que você já tem
-from services.ghl_client import refresh_agency_token, get_installed_locations, manage_location_tokens, update_single_custom_value, _load_json
+from backend.services.ghl_client import refresh_agency_token, get_installed_locations, manage_location_tokens, update_single_custom_value, _load_json
 
 # ==============================================================================
 # CONFIGURAÇÃO (a mesma do seu run_content_update.py)

@@ -1,3 +1,5 @@
+# 153 - APARTAMENTO COM 1 SUÍTE MAIS 1 DORMITÓRIO NO ANITA GARIBALDI - https://www.jardins.imb.br/imovel/apartamento-joinville-anita-garibaldi-2-quartos-1-garagem-venda-ref-153/
+# 154 - APARTAMENTO COM 1 DORMITÓRIO NO ANITA GARIBALDI - https://www.jardins.imb.br/imovel/apartamento-joinville-anita-garibaldi-1-quarto-1-garagem-venda-ref-154/
 # 150 - APARTAMENTO MOBILIADO COM 3 SUÍTES NO CENTRO - https://www.jardins.imb.br/imovel/apartamento-joinville-anita-garibaldi-4-quartos-2-garagens-venda-ref-150/
 # 149 - APARTAMENTO SEMI MOBILIADONO ANITA GARIBALDI - https://www.jardins.imb.br/imovel/apartamento-joinville-anita-garibaldi-3-quartos-2-garagens-venda-ref-149/
 # 148 - APARTAMENTO NO  AMÉRICA COM 4 SUÍTES - https://www.jardins.imb.br/imovel/apartamento-joinville-america-4-quartos-3-garagens-venda-ref-148/

@@ -1,0 +1,18 @@
+# Ignorar Git e Docker
+.git
+.gitignore
+.dockerignore
+Dockerfile
+
+# Ignorar dependências locais e ambientes virtuais
+node_modules
+.venv
+venv
+
+# Ignorar arquivos de segredo e de estado. Eles serão gerenciados na VPS.
+backend/.env
+backend/gohighlevel_token.json
+backend/installed_locations_data.json
+
+# Ignorar arquivos de log e outros arquivos de desenvolvimento
+*.log

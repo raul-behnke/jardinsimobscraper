@@ -1,5 +1,109 @@
 [
   {
+    "listingID": "153",
+    "title": "APARTAMENTO COM 1 SUÍTE MAIS 1 DORMITÓRIO NO ANITA GARIBALDI",
+    "detailViewUrl": "https://www.jardins.imb.br/imovel/apartamento-joinville-anita-garibaldi-2-quartos-1-garagem-venda-ref-153/",
+    "tipologia": "Apartamento",
+    "description": "River, o compacto com acabamento de alto padrão no Anita Garibaldi.\nO River fica numa localização que equilibra tranquilidade e acessibilidade, características essenciais tanto para moradores quanto para investidores. \nApartamentos  com 1 suíte mais 1 dormitório, com garagem, sacada com churrasqueira e opção de depósito na garagem.\nEntrega com rebaixo em gesso, porcelanato nas áreas comuns do apartamento e pisi vinílico nos quartos.\nPlanta flexível que pode ser alterada conforme necessidade do cliente. \nO prédio conta com piscina, salão de jogos, espaço gourmet, academia, salão de festas, coworking.\nCondições epeciais de lançamento, não perca.\nRI. 7.50213<br />\n<br /><strong>Características:</strong><br>\n\n• &nbsp;Acabamento em Gesso<br>\n• &nbsp;Acessibilidade para PNE<br>\n• &nbsp;Área de Serviço<br>\n• &nbsp;Brinquedoteca<br>\n• &nbsp;Câmeras de Segurança<br>\n• &nbsp;Churrasqueira<br>\n• &nbsp;Coworking<br>\n• &nbsp;Cozinha<br>\n• &nbsp;Elevador<br>\n• &nbsp;Espaço Fitness<br>\n• &nbsp;Espaço Gourmet<br>\n• &nbsp;Fechadura Eletrônica<br>\n• &nbsp;Infra para Ar Split<br>\n• &nbsp;Internet / WiFi<br>\n• &nbsp;Piscina<br>\n• &nbsp;Piso Porcelanato<br>\n• &nbsp;Portão Eletrônico<br>\n• &nbsp;Sacada com Churrasqueira<br>\n• &nbsp;Sala de Estar<br>\n• &nbsp;Sala de Jantar<br>\n• &nbsp;Sala de Jogos<br>\n• &nbsp;Salão de Festas<br>\n• &nbsp;Spa<br><br>\n",
+    "listPrice": {
+      "value": "607100",
+      "currency": "BRL"
+    },
+    "propertyAdministrationFee": null,
+    "constructedArea": {
+      "value": "71",
+      "unit": "square metres"
+    },
+    "livingArea": {
+      "value": "71",
+      "unit": "square metres"
+    },
+    "lotArea": {
+      "value": "108",
+      "unit": "square metres"
+    },
+    "bedrooms": "2",
+    "bathrooms": "2",
+    "suites": "1",
+    "garage": {
+      "value": "1",
+      "type": "Parking Space"
+    },
+    "features": [
+      "Maid's Quarters",
+      "TV Security",
+      "BBQ",
+      "Kitchen",
+      "Elevator",
+      "Fitness Room",
+      "Gourmet Area",
+      "Barbecue Balcony",
+      "BBQ",
+      "Living Room",
+      "Dining Room",
+      "Game room",
+      "Party Room",
+      "Parking Garage"
+    ],
+    "neighborhood": "Anita Garibaldi",
+    "address": "Rua Rio Grande do Sul",
+    "streetNumber": "453",
+    "complement": "201",
+    "postalCode": "89203-570"
+  },
+  {
+    "listingID": "154",
+    "title": "APARTAMENTO COM 1 DORMITÓRIO NO ANITA GARIBALDI",
+    "detailViewUrl": "https://www.jardins.imb.br/imovel/apartamento-joinville-anita-garibaldi-1-quarto-1-garagem-venda-ref-154/",
+    "tipologia": "Apartamento",
+    "description": "River, o compacto com acabamento de alto padrão no Anita Garibaldi.\nO River fica numa localização que equilibra tranquilidade e acessibilidade, características essenciais tanto para moradores quanto para investidores. \nApartamentos  com  1 dormitório, com garagem, sacada com churrasqueira e opção de depósito na garagem.\nIdeal para investidores.\nEntrega com rebaixo em gesso, porcelanato nas áreas comuns do apartamento e pisi vinílico nos quartos.\nPlanta flexível que pode ser alterada conforme necessidade do cliente. \nO prédio conta com piscina, salão de jogos, espaço gourmet, academia, salão de festas, coworking.\nCondições epeciais de lançamento, não perca.\nRI. 7.50213<br />\n<br /><strong>Características:</strong><br>\n\n• &nbsp;Acabamento em Gesso<br>\n• &nbsp;Acessibilidade para PNE<br>\n• &nbsp;Área de Serviço<br>\n• &nbsp;Brinquedoteca<br>\n• &nbsp;Câmeras de Segurança<br>\n• &nbsp;Churrasqueira<br>\n• &nbsp;Coworking<br>\n• &nbsp;Cozinha<br>\n• &nbsp;Elevador<br>\n• &nbsp;Espaço Fitness<br>\n• &nbsp;Espaço Gourmet<br>\n• &nbsp;Fechadura Eletrônica<br>\n• &nbsp;Infra para Ar Split<br>\n• &nbsp;Internet / WiFi<br>\n• &nbsp;Piscina<br>\n• &nbsp;Piso Porcelanato<br>\n• &nbsp;Portão Eletrônico<br>\n• &nbsp;Sacada com Churrasqueira<br>\n• &nbsp;Sala de Estar<br>\n• &nbsp;Sala de Jantar<br>\n• &nbsp;Sala de Jogos<br>\n• &nbsp;Salão de Festas<br>\n• &nbsp;Spa<br><br>\n",
+    "listPrice": {
+      "value": "410100",
+      "currency": "BRL"
+    },
+    "propertyAdministrationFee": null,
+    "constructedArea": {
+      "value": "65",
+      "unit": "square metres"
+    },
+    "livingArea": {
+      "value": "65",
+      "unit": "square metres"
+    },
+    "lotArea": {
+      "value": "108",
+      "unit": "square metres"
+    },
+    "bedrooms": "1",
+    "bathrooms": "1",
+    "suites": "0",
+    "garage": {
+      "value": "1",
+      "type": "Parking Space"
+    },
+    "features": [
+      "Maid's Quarters",
+      "TV Security",
+      "BBQ",
+      "Kitchen",
+      "Elevator",
+      "Fitness Room",
+      "Gourmet Area",
+      "Barbecue Balcony",
+      "BBQ",
+      "Living Room",
+      "Dining Room",
+      "Game room",
+      "Party Room",
+      "Parking Garage"
+    ],
+    "neighborhood": "Anita Garibaldi",
+    "address": "Rua Rio Grande do Sul",
+    "streetNumber": "453",
+    "complement": "203",
+    "postalCode": "89203-570"
+  },
+  {
     "listingID": "150",
     "title": "APARTAMENTO MOBILIADO COM 3 SUÍTES NO CENTRO",
     "detailViewUrl": "https://www.jardins.imb.br/imovel/apartamento-joinville-anita-garibaldi-4-quartos-2-garagens-venda-ref-150/",
@@ -1065,7 +1169,7 @@
     "tipologia": "Apartamento",
     "description": "O mais novo empreendimento da Wecon no Bairro América.\n\nO Basel traz uma planta super inteligente , com 136m², 3 suítes, lavabo e living integrado com churrasqueira a carvão. Persianas externas automatizadas, piso vinílico nos dormitórios e porcelanato na área social. Ponto de coifa com saída externa, rebaixo em gesso e fechadura eletrônica.\nO condmínio terá salão de festas, piscina aquecida, espaço fitness, espaço kids. \nInfraestrutura para carregamento de carro elétrico nas garagens e 2 elevadores.\nR.I. 3.187.178<br />\n<br /><strong>Características:</strong><br>\n\n• &nbsp;Acabamento em Gesso<br>\n• &nbsp;Área de Serviço<br>\n• &nbsp;Bicicletário<br>\n• &nbsp;Brinquedoteca<br>\n• &nbsp;Churrasqueira<br>\n• &nbsp;Cozinha<br>\n• &nbsp;Espaço Fitness<br>\n• &nbsp;Hall Decorado e Mobiliado<br>\n• &nbsp;Lavabo<br>\n• &nbsp;Piscina<br>\n• &nbsp;Portão Eletrônico<br>\n• &nbsp;Sacada / Varanda<br>\n• &nbsp;Sala de Estar<br>\n• &nbsp;Sala de Jantar<br>\n• &nbsp;Salão de Festas<br><br>\n",
     "listPrice": {
-      "value": "1378500",
+      "value": "1506800",
       "currency": "BRL"
     },
     "propertyAdministrationFee": null,
@@ -2541,7 +2645,7 @@
     "tipologia": "Apartamento",
     "description": "Apartamento novo, pronto para morar no Atiradores.\nCom 127m² de área privativa, 3 suítes e um living integrado, esse apartamento traz uma planta inteligente e funcional.\nSacada com churrasqueira e uma vista incrível para área verde e 2 vagas de garagem.\nPrédio com piscina aquecida, academia, salão de festas, coworking, brinquedoteca.<br />\n<br /><strong>Características:</strong><br>\n\n• &nbsp;Acabamento em Gesso<br>\n• &nbsp;Área de Serviço<br>\n• &nbsp;Bicicletário<br>\n• &nbsp;Brinquedoteca<br>\n• &nbsp;Coworking<br>\n• &nbsp;Cozinha<br>\n• &nbsp;Elevador<br>\n• &nbsp;Espaço Fitness<br>\n• &nbsp;Espaço Gourmet<br>\n• &nbsp;Infra para Ar Split<br>\n• &nbsp;Lavabo<br>\n• &nbsp;Piscina<br>\n• &nbsp;Pìscina Térmica<br>\n• &nbsp;Portão Eletrônico<br>\n• &nbsp;Sacada com Churrasqueira<br>\n• &nbsp;Sala de Estar<br>\n• &nbsp;Sala de Jantar<br>\n• &nbsp;Salão de Festas<br><br>\n",
     "listPrice": {
-      "value": "1310146",
+      "value": "1449000",
       "currency": "BRL"
     },
     "propertyAdministrationFee": null,
